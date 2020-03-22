@@ -9,6 +9,7 @@ function getAllData() {
     fetch("https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/data.json")
         .then(response => response.json())
         .then(data => {
+            var id = [];
             var displayName = [];
             var totalConfirmed = [];
             var totalDeaths = [];
@@ -18,6 +19,7 @@ function getAllData() {
             var long = [];
             var parentId = [];
 
+            id.push(data.id);
             displayName.push(data.displayName);
             totalConfirmed.push(data.totalConfirmed);
             totalDeaths.push(data.totalDeaths);
@@ -29,6 +31,7 @@ function getAllData() {
 
             for (y = 0; y < data["areas"].length; y++) {
 
+                id.push(data["areas"][y].id);
                 displayName.push(data["areas"][y].displayName);
                 totalConfirmed.push(data["areas"][y].totalConfirmed);
                 totalDeaths.push(data["areas"][y].totalDeaths);
@@ -41,6 +44,7 @@ function getAllData() {
                 if (data["areas"][y]["areas"].length != 0) {
                     for (z = 0; z < data["areas"][y]["areas"].length; z++) {
 
+                        id.push(data["areas"][y]["areas"][z].id);
                         displayName.push(data["areas"][y]["areas"][z].displayName);
                         totalConfirmed.push(data["areas"][y]["areas"][z].totalConfirmed);
                         totalDeaths.push(data["areas"][y]["areas"][z].totalDeaths);
@@ -54,15 +58,16 @@ function getAllData() {
                 }
             }
 
-            postScript(displayName, totalConfirmed, totalDeaths, totalRecovered, lastUpdated, lat, long, parentId);
+            postScript(id, displayName, totalConfirmed, totalDeaths, totalRecovered, lastUpdated, lat, long, parentId);
 
         });
 }
 
-function postScript(displayName, totalConfirmed, totalDeaths, totalRecovered, lastUpdated, lat, long, parentId) {
+function postScript(id, displayName, totalConfirmed, totalDeaths, totalRecovered, lastUpdated, lat, long, parentId) {
 
     // Do anything you want with all the data provided as parameters
 
+    console.log(id);
     console.log(displayName);
     console.log(totalConfirmed);
     console.log(totalDeaths);
