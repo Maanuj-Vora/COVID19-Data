@@ -6,7 +6,9 @@
 
 ![Retrieve Hourly Data](https://github.com/Maanuj-Vora/Bing-COVID-19-Current-Data/workflows/Retrieve%20Hourly%20Data/badge.svg)
 
-All data will be updated hourly, if the thing above is green and says 'passing'
+All data will be updated hourly, if the thing above is green and says 'passing'.
+
+Site Implementation [Here](https://maanuj-vora.github.io/coronavirus-statistics/currentData.html).
 
 ---
 
