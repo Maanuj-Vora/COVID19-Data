@@ -77,7 +77,7 @@ function countryInfo(data) {
     var id = [];
     var displayName = [];
 
-    for (y = 0; y < data["areas"].length; y++) {
+    for (let y = 0; y < data["areas"].length; y++) {
 
         id.push(data["areas"][y].id);
         displayName.push(data["areas"][y].displayName);
