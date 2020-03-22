@@ -42,12 +42,12 @@ function allid(data) {
 
     id.push(data.id);
 
-    for (y = 0; y < data["areas"].length; y++) {
+    for (let y = 0; y < data["areas"].length; y++) {
 
         id.push(data["areas"][y].id);
 
         if (data["areas"][y]["areas"].length != 0) {
-            for (z = 0; z < data["areas"][y]["areas"].length; z++) {
+            for (let z = 0; z < data["areas"][y]["areas"].length; z++) {
 
                 id.push(data["areas"][y]["areas"][z].id);
             }
