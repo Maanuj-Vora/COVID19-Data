@@ -1,6 +1,6 @@
-on:
-  schedule:
-    - cron: "0 * * * *"
+name: Retrieve Hourly Data
+
+on: [push]
     
 jobs:
   extract_job:
