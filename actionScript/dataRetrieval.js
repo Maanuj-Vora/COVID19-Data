@@ -22,7 +22,7 @@ const get = new Promise((resolve, reject) => {
             const data = JSON.parse(da);
             resolve(data);
             fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
-            fs.writeFile('mynewfile3.txt', JSON.stringify(data, null, 2), function (err) {
+            fs.writeFile(outputPathDaily, JSON.stringify(data, null, 2), function (err) {
                 if (err) throw err;
                 console.log('Replaced!');
               });
