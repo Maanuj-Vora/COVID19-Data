@@ -10,7 +10,7 @@ let d = new Date();
 
 const outputPath = path.join(WORKSPACE, MAIN_REPO, "docs", "currentData.json");
 const outputPathDaily = path.join(WORKSPACE, MAIN_REPO, "docs", "archived", ((d.toLocaleDateString() + ".json").replace("/", "-")).replace("/", "-"));
-const outputPathAllID = path.join(WORKSPACE, MAIN_REPO, "docs", "allId.json");
+const outputPathAllNamesIDs = path.join(WORKSPACE, MAIN_REPO, "docs", "allNamesIDs.json");
 
 Object.defineProperty(exports, "__esModule", { value: true });
 const https_1 = require("https");
@@ -28,7 +28,7 @@ const get = new Promise((resolve, reject) => {
                 console.log("It worked?");
             });
 
-            allid(data);
+            allInfo(data);
 
         });
     });
@@ -36,24 +36,35 @@ const get = new Promise((resolve, reject) => {
 });
 module.exports = get;
 
-function allid(data) {
+function allInfo(data) {
 
     var id = [];
+    var displayName = [];
 
     id.push(data.id);
+    displayName.push(data.displayName);
 
     for (let y = 0; y < data["areas"].length; y++) {
 
         id.push(data["areas"][y].id);
+        displayName.push(data["areas"][y].displayName);
 
         if (data["areas"][y]["areas"].length != 0) {
             for (let z = 0; z < data["areas"][y]["areas"].length; z++) {
 
                 id.push(data["areas"][y]["areas"][z].id);
+                displayName.push(data["areas"][y]["areas"][z].displayName);
+
             }
         }
     }
-    fs.writeFile(outputPathAllID, JSON.stringify(id, null, 2), { flag: 'w' }, function (err) {
+
+    var item = {
+        "id": id,
+        "displayName": displayName
+    };
+
+    fs.writeFile(outputPathAllNamesIDs, JSON.stringify(item, null, 2), { flag: 'w' }, function (err) {
         if (err) throw err;
         console.log("It worked?");
     });
