@@ -10,7 +10,7 @@ let d = new Date();
 
 const outputPath = path.join(WORKSPACE, MAIN_REPO, "docs", "currentData.json");
 const outputPathDaily = path.join(WORKSPACE, MAIN_REPO, "docs", "archived", ((d.toLocaleDateString() + ".json").replace("/", "-")).replace("/", "-"));
-const outputPathAllID = path.join(WORKSPACE, MAIN_REPO, "docs", "allId.csv");
+const outputPathAllID = path.join(WORKSPACE, MAIN_REPO, "docs", "allId.json");
 
 Object.defineProperty(exports, "__esModule", { value: true });
 const https_1 = require("https");
@@ -53,7 +53,7 @@ function allid(data) {
             }
         }
     }
-    fs.writeFile(outputPathAllID, id, { flag: 'w' }, function (err) {
+    fs.writeFile(outputPathAllID, JSON.stringify(id, null, 2), { flag: 'w' }, function (err) {
         if (err) throw err;
         console.log("It worked?");
     });
