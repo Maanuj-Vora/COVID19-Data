@@ -36,7 +36,7 @@ const get = new Promise((resolve, reject) => {
 });
 module.exports = get;
 
-function allid() {
+function allid(data) {
 
     var id = [];
 
