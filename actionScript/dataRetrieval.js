@@ -9,7 +9,7 @@ const MAIN_REPO = "main";
 const outputPath = path.join(WORKSPACE, MAIN_REPO, "docs", "data.json");
 
 let d = new Date();
-const outputPathDaily = path.join(WORKSPACE, MAIN_REPO, "docs", d.toLocaleDateString());
+const outputPathDaily = path.join(WORKSPACE, MAIN_REPO, "docs", d.toLocaleDateString()+".json");
 
 Object.defineProperty(exports, "__esModule", { value: true });
 const https_1 = require("https");
