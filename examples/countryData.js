@@ -6,7 +6,7 @@ function startScript() {
 }
 
 function getAllCountryData() {
-    fetch("https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/data.json")
+    fetch("https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/currentData.json")
         .then(response => response.json())
         .then(data => {
             var id = [];

@@ -6,10 +6,10 @@ const WORKSPACE = process.env.GITHUB_WORKSPACE;
 const DATA_REPO = "data";
 const MAIN_REPO = "main";
 
-const outputPath = path.join(WORKSPACE, MAIN_REPO, "docs", "data.json");
+const outputPath = path.join(WORKSPACE, MAIN_REPO, "docs", "currentData.json");
 
 let d = new Date();
-const outputPathDaily = path.join(WORKSPACE, MAIN_REPO, "docs", ((d.toLocaleDateString() + ".json").replace("/", "-")).replace("/", "-"));
+const outputPathDaily = path.join(WORKSPACE, MAIN_REPO, "docs", "archived", ((d.toLocaleDateString() + ".json").replace("/", "-")).replace("/", "-"));
 
 Object.defineProperty(exports, "__esModule", { value: true });
 const https_1 = require("https");
