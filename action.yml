@@ -1,4 +1,4 @@
 name: "Retrieve Data"
 runs:
   using: "node12"
-  main: "dataRetrieval.js"
+  main: "actionScript/dataRetrieval.js"
