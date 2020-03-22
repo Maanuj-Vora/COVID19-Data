@@ -11,6 +11,7 @@ let d = new Date();
 const outputPath = path.join(WORKSPACE, MAIN_REPO, "docs", "currentData.json");
 const outputPathDaily = path.join(WORKSPACE, MAIN_REPO, "docs", "archived", ((d.toLocaleDateString() + ".json").replace("/", "-")).replace("/", "-"));
 const outputPathAllNamesIDs = path.join(WORKSPACE, MAIN_REPO, "docs", "allNamesIDs.json");
+const outputPathCountryNamesIDs = path.join(WORKSPACE, MAIN_REPO, "docs", "countryNamesIDs.json");
 
 Object.defineProperty(exports, "__esModule", { value: true });
 const https_1 = require("https");
@@ -29,7 +30,7 @@ const get = new Promise((resolve, reject) => {
             });
 
             allInfo(data);
-
+            countryInfo(data);
         });
     });
     req.end();
@@ -65,6 +66,30 @@ function allInfo(data) {
     };
 
     fs.writeFile(outputPathAllNamesIDs, JSON.stringify(item, null, 2), { flag: 'w' }, function (err) {
+        if (err) throw err;
+        console.log("It worked?");
+    });
+
+}
+
+function countryInfo(data) {
+
+    var id = [];
+    var displayName = [];
+
+    for (y = 0; y < data["areas"].length; y++) {
+
+        id.push(data["areas"][y].id);
+        displayName.push(data["areas"][y].displayName);
+
+    }
+
+    var item = {
+        "id": id,
+        "displayName": displayName
+    };
+
+    fs.writeFile(outputPathCountryNamesIDs, JSON.stringify(item, null, 2), { flag: 'w' }, function (err) {
         if (err) throw err;
         console.log("It worked?");
     });
