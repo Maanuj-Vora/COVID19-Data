@@ -22,7 +22,7 @@ const get = new Promise((resolve, reject) => {
             const data = JSON.parse(da);
             resolve(data);
             fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
-            fs.writeFile(outputPathDaily, JSON.stringify(data, null, 2), { flag: 'wx' }, function (err) {
+            fs.writeFile(outputPathDaily, JSON.stringify(data, null, 2), { flag: 'w' }, function (err) {
                 if (err) throw err;
                 console.log("It worked?");
             });
