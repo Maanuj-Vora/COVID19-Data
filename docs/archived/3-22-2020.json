@@ -9,7 +9,7 @@
       "totalConfirmed": 81054,
       "totalDeaths": 3261,
       "totalRecovered": 72244,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 36.56311586,
       "long": 103.7358068,
       "parentId": "world"
@@ -21,7 +21,7 @@
       "totalConfirmed": 59138,
       "totalDeaths": 5476,
       "totalRecovered": 7024,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 43.529028,
       "long": 12.162184,
       "parentId": "world"
@@ -68,6 +68,17 @@
               "parentId": "alabama_unitedstates"
             },
             {
+              "id": "cullman_alabama_unitedstates",
+              "displayName": "Cullman",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 34.13191223144531,
+              "long": -86.86763000488281,
+              "parentId": "alabama_unitedstates"
+            },
+            {
               "id": "elmore_alabama_unitedstates",
               "displayName": "Elmore",
               "areas": [],
@@ -79,14 +90,14 @@
               "parentId": "alabama_unitedstates"
             },
             {
-              "id": "lee_alabama_unitedstates",
-              "displayName": "Lee",
+              "id": "jackson_alabama_unitedstates",
+              "displayName": "Jackson",
               "areas": [],
-              "totalConfirmed": 14,
+              "totalConfirmed": 1,
               "totalDeaths": 0,
               "totalRecovered": 0,
-              "lat": 32.601036071777344,
-              "long": -85.35548400878906,
+              "lat": 34.779441833496094,
+              "long": -85.99925231933594,
               "parentId": "alabama_unitedstates"
             },
             {
@@ -98,6 +109,39 @@
               "totalRecovered": 0,
               "lat": 33.55427551269531,
               "long": -86.89649200439453,
+              "parentId": "alabama_unitedstates"
+            },
+            {
+              "id": "lamar_alabama_unitedstates",
+              "displayName": "Lamar",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.77922821044922,
+              "long": -88.096923828125,
+              "parentId": "alabama_unitedstates"
+            },
+            {
+              "id": "lauderdale_alabama_unitedstates",
+              "displayName": "Lauderdale",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 34.901126861572266,
+              "long": -87.65404510498047,
+              "parentId": "alabama_unitedstates"
+            },
+            {
+              "id": "lee_alabama_unitedstates",
+              "displayName": "Lee",
+              "areas": [],
+              "totalConfirmed": 14,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 32.601036071777344,
+              "long": -85.35548400878906,
               "parentId": "alabama_unitedstates"
             },
             {
@@ -120,6 +164,28 @@
               "totalRecovered": 0,
               "lat": 34.763118743896484,
               "long": -86.5501937866211,
+              "parentId": "alabama_unitedstates"
+            },
+            {
+              "id": "marion_alabama_unitedstates",
+              "displayName": "Marion",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 34.13654327392578,
+              "long": -87.88726043701172,
+              "parentId": "alabama_unitedstates"
+            },
+            {
+              "id": "mobile_alabama_unitedstates",
+              "displayName": "Mobile",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 30.710906982421875,
+              "long": -88.19728088378906,
               "parentId": "alabama_unitedstates"
             },
             {
@@ -189,61 +255,6 @@
               "parentId": "alabama_unitedstates"
             },
             {
-              "id": "mobile_alabama_unitedstates",
-              "displayName": "Mobile",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 30.710906982421875,
-              "long": -88.19728088378906,
-              "parentId": "alabama_unitedstates"
-            },
-            {
-              "id": "cullman_alabama_unitedstates",
-              "displayName": "Cullman",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 34.13191223144531,
-              "long": -86.86763000488281,
-              "parentId": "alabama_unitedstates"
-            },
-            {
-              "id": "jackson_alabama_unitedstates",
-              "displayName": "Jackson",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 34.779441833496094,
-              "long": -85.99925231933594,
-              "parentId": "alabama_unitedstates"
-            },
-            {
-              "id": "lamar_alabama_unitedstates",
-              "displayName": "Lamar",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.77922821044922,
-              "long": -88.096923828125,
-              "parentId": "alabama_unitedstates"
-            },
-            {
-              "id": "lauderdale_alabama_unitedstates",
-              "displayName": "Lauderdale",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 34.901126861572266,
-              "long": -87.65404510498047,
-              "parentId": "alabama_unitedstates"
-            },
-            {
               "id": "washington_alabama_unitedstates",
               "displayName": "Washington",
               "areas": [],
@@ -253,23 +264,12 @@
               "lat": 31.407594680786133,
               "long": -88.20787048339844,
               "parentId": "alabama_unitedstates"
-            },
-            {
-              "id": "marion_alabama_unitedstates",
-              "displayName": "Marion",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 34.13654327392578,
-              "long": -87.88726043701172,
-              "parentId": "alabama_unitedstates"
             }
           ],
-          "totalConfirmed": 138,
+          "totalConfirmed": 157,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 32.806671,
           "long": -86.79113,
           "parentId": "unitedstates"
@@ -281,7 +281,7 @@
           "totalConfirmed": 14,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 61.370716,
           "long": -152.404419,
           "parentId": "unitedstates"
@@ -289,11 +289,111 @@
         {
           "id": "arizona_unitedstates",
           "displayName": "Arizona",
-          "areas": [],
+          "areas": [
+            {
+              "id": "maricopa_arizona_unitedstates",
+              "displayName": "Maricopa",
+              "areas": [],
+              "totalConfirmed": 81,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.348838806152344,
+              "long": -112.4912338256836,
+              "parentId": "arizona_unitedstates"
+            },
+            {
+              "id": "pima_arizona_unitedstates",
+              "displayName": "Pima",
+              "areas": [],
+              "totalConfirmed": 17,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 32.09727096557617,
+              "long": -111.78976440429688,
+              "parentId": "arizona_unitedstates"
+            },
+            {
+              "id": "pinal_arizona_unitedstates",
+              "displayName": "Pinal",
+              "areas": [],
+              "totalConfirmed": 16,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 32.90432357788086,
+              "long": -111.34476470947266,
+              "parentId": "arizona_unitedstates"
+            },
+            {
+              "id": "navajo_arizona_unitedstates",
+              "displayName": "Navajo",
+              "areas": [],
+              "totalConfirmed": 13,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 35.39955139160156,
+              "long": -110.3213882446289,
+              "parentId": "arizona_unitedstates"
+            },
+            {
+              "id": "coconino_arizona_unitedstates",
+              "displayName": "Coconino",
+              "areas": [],
+              "totalConfirmed": 14,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 35.83866882324219,
+              "long": -111.77052307128906,
+              "parentId": "arizona_unitedstates"
+            },
+            {
+              "id": "graham_arizona_unitedstates",
+              "displayName": "Graham",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 32.93267822265625,
+              "long": -109.88749694824219,
+              "parentId": "arizona_unitedstates"
+            },
+            {
+              "id": "yavapai_arizona_unitedstates",
+              "displayName": "Yavapai",
+              "areas": [],
+              "totalConfirmed": 3,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 34.59984588623047,
+              "long": -112.55381774902344,
+              "parentId": "arizona_unitedstates"
+            },
+            {
+              "id": "yuma_arizona_unitedstates",
+              "displayName": "Yuma",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 32.76895523071289,
+              "long": -113.90583038330078,
+              "parentId": "arizona_unitedstates"
+            },
+            {
+              "id": "apache_arizona_unitedstates",
+              "displayName": "Apache",
+              "areas": [],
+              "totalConfirmed": 3,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 35.395626068115234,
+              "long": -109.48882293701172,
+              "parentId": "arizona_unitedstates"
+            }
+          ],
           "totalConfirmed": 152,
           "totalDeaths": 2,
           "totalRecovered": 1,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 33.729759,
           "long": -111.431221,
           "parentId": "unitedstates"
@@ -305,7 +405,7 @@
           "totalConfirmed": 165,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 34.969704,
           "long": -92.373123,
           "parentId": "unitedstates"
@@ -317,7 +417,7 @@
           "totalConfirmed": 1224,
           "totalDeaths": 23,
           "totalRecovered": 6,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 36.116203,
           "long": -119.681564,
           "parentId": "unitedstates"
@@ -368,17 +468,6 @@
               "totalRecovered": 0,
               "lat": 39.953819274902344,
               "long": -105.05360412597656,
-              "parentId": "colorado_unitedstates"
-            },
-            {
-              "id": "chaffee_colorado_unitedstates",
-              "displayName": "Chaffee",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 38.74686050415039,
-              "long": -106.19401550292969,
               "parentId": "colorado_unitedstates"
             },
             {
@@ -649,7 +738,7 @@
           "totalConfirmed": 475,
           "totalDeaths": 5,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 39.059811,
           "long": -105.311104,
           "parentId": "unitedstates"
@@ -750,7 +839,7 @@
           "totalConfirmed": 223,
           "totalDeaths": 5,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 41.597782,
           "long": -72.755371,
           "parentId": "unitedstates"
@@ -763,7 +852,7 @@
               "id": "newcastle_delaware_unitedstates",
               "displayName": "New Castle",
               "areas": [],
-              "totalConfirmed": 32,
+              "totalConfirmed": 39,
               "totalDeaths": 0,
               "totalRecovered": 0,
               "lat": 39.57804489135742,
@@ -785,7 +874,7 @@
               "id": "sussex_delaware_unitedstates",
               "displayName": "Sussex",
               "areas": [],
-              "totalConfirmed": 8,
+              "totalConfirmed": 12,
               "totalDeaths": 0,
               "totalRecovered": 0,
               "lat": 38.687740325927734,
@@ -796,7 +885,7 @@
           "totalConfirmed": 47,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 39.318523,
           "long": -75.507141,
           "parentId": "unitedstates"
@@ -808,7 +897,7 @@
           "totalConfirmed": 98,
           "totalDeaths": 1,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 38.897438,
           "long": -77.026817,
           "parentId": "unitedstates"
@@ -818,153 +907,10 @@
           "displayName": "Florida",
           "areas": [
             {
-              "id": "broward_florida_unitedstates",
-              "displayName": "Broward",
-              "areas": [],
-              "totalConfirmed": 180,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 26.152246475219727,
-              "long": -80.48703002929688,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "miamidade_florida_unitedstates",
-              "displayName": "Miami-Dade",
-              "areas": [],
-              "totalConfirmed": 86,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 25.60788917541504,
-              "long": -80.53448486328125,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "palmbeach_florida_unitedstates",
-              "displayName": "Palm Beach",
-              "areas": [],
-              "totalConfirmed": 59,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 26.64753532409668,
-              "long": -80.4654312133789,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "hillsborough_florida_unitedstates",
-              "displayName": "Hillsborough",
-              "areas": [],
-              "totalConfirmed": 50,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 27.911405563354492,
-              "long": -82.33931732177734,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "duval_florida_unitedstates",
-              "displayName": "Duval",
-              "areas": [],
-              "totalConfirmed": 37,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 30.331594467163086,
-              "long": -81.67079162597656,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "collier_florida_unitedstates",
-              "displayName": "Collier",
-              "areas": [],
-              "totalConfirmed": 28,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 26.109399795532227,
-              "long": -81.34837341308594,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "pinellas_florida_unitedstates",
-              "displayName": "Pinellas",
-              "areas": [],
-              "totalConfirmed": 30,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 27.9102840423584,
-              "long": -82.71943664550781,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "lee_florida_unitedstates",
-              "displayName": "Lee",
-              "areas": [],
-              "totalConfirmed": 18,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 26.584827423095703,
-              "long": -81.880126953125,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "volusia_florida_unitedstates",
-              "displayName": "Volusia",
-              "areas": [],
-              "totalConfirmed": 12,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 29.058382034301758,
-              "long": -81.18183135986328,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "orange_florida_unitedstates",
-              "displayName": "Orange",
-              "areas": [],
-              "totalConfirmed": 29,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 28.514442443847656,
-              "long": -81.3234634399414,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "manatee_florida_unitedstates",
-              "displayName": "Manatee",
-              "areas": [],
-              "totalConfirmed": 13,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 27.477310180664062,
-              "long": -82.3348388671875,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "osceola_florida_unitedstates",
-              "displayName": "Osceola",
-              "areas": [],
-              "totalConfirmed": 22,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 28.062538146972656,
-              "long": -81.1495361328125,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "seminole_florida_unitedstates",
-              "displayName": "Seminole",
-              "areas": [],
-              "totalConfirmed": 16,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 28.71700096130371,
-              "long": -81.23632049560547,
-              "parentId": "florida_unitedstates"
-            },
-            {
               "id": "alachua_florida_unitedstates",
               "displayName": "Alachua",
               "areas": [],
-              "totalConfirmed": 29,
+              "totalConfirmed": 35,
               "totalDeaths": 0,
               "totalRecovered": 0,
               "lat": 29.674819946289062,
@@ -972,252 +918,10 @@
               "parentId": "florida_unitedstates"
             },
             {
-              "id": "clay_florida_unitedstates",
-              "displayName": "Clay",
-              "areas": [],
-              "totalConfirmed": 6,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 29.983055114746094,
-              "long": -81.85778045654297,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "sarasota_florida_unitedstates",
-              "displayName": "Sarasota",
-              "areas": [],
-              "totalConfirmed": 15,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 27.184507369995117,
-              "long": -82.33183288574219,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "stjohns_florida_unitedstates",
-              "displayName": "St. Johns",
-              "areas": [],
-              "totalConfirmed": 12,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 29.901628494262695,
-              "long": -81.44029235839844,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "okaloosa_florida_unitedstates",
-              "displayName": "Okaloosa",
-              "areas": [],
-              "totalConfirmed": 12,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 30.69118881225586,
-              "long": -86.59171295166016,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "pasco_florida_unitedstates",
-              "displayName": "Pasco",
-              "areas": [],
-              "totalConfirmed": 8,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 28.307771682739258,
-              "long": -82.3968276977539,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "citrus_florida_unitedstates",
-              "displayName": "Citrus",
-              "areas": [],
-              "totalConfirmed": 8,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 28.850418090820312,
-              "long": -82.46709442138672,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "lake_florida_unitedstates",
-              "displayName": "Lake",
-              "areas": [],
-              "totalConfirmed": 6,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 28.76155662536621,
-              "long": -81.71121978759766,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "gadsden_florida_unitedstates",
-              "displayName": "Gadsden",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 30.579498291015625,
-              "long": -84.61353302001953,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "leon_florida_unitedstates",
-              "displayName": "Leon",
-              "areas": [],
-              "totalConfirmed": 4,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 30.45796775817871,
-              "long": -84.27794647216797,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "sumter_florida_unitedstates",
-              "displayName": "Sumter",
-              "areas": [],
-              "totalConfirmed": 4,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 28.704744338989258,
-              "long": -82.08099365234375,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "brevard_florida_unitedstates",
-              "displayName": "Brevard",
-              "areas": [],
-              "totalConfirmed": 5,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 28.293485641479492,
-              "long": -80.73235321044922,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "polk_florida_unitedstates",
-              "displayName": "Polk",
-              "areas": [],
-              "totalConfirmed": 11,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 27.948881149291992,
-              "long": -81.69776153564453,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "santarosa_florida_unitedstates",
-              "displayName": "Santa Rosa",
-              "areas": [],
-              "totalConfirmed": 3,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 30.701292037963867,
-              "long": -87.02233123779297,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "nassau_florida_unitedstates",
-              "displayName": "Nassau",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 30.610706329345703,
-              "long": -81.80146789550781,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "charlotte_florida_unitedstates",
-              "displayName": "Charlotte",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 26.901477813720703,
-              "long": -81.92887115478516,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "escambia_florida_unitedstates",
-              "displayName": "Escambia",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 30.666954040527344,
-              "long": -87.36062622070312,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "walton_florida_unitedstates",
-              "displayName": "Walton",
-              "areas": [],
-              "totalConfirmed": 4,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 30.64362335205078,
-              "long": -86.16960906982422,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "dade_florida_unitedstates",
-              "displayName": "Dade",
-              "areas": [],
-              "totalConfirmed": 177,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 25.60788917541504,
-              "long": -80.53448486328125,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "hernando_florida_unitedstates",
-              "displayName": "Hernando",
-              "areas": [],
-              "totalConfirmed": 5,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 28.552366256713867,
-              "long": -82.4189682006836,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "jackson_florida_unitedstates",
-              "displayName": "Jackson",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 30.795330047607422,
-              "long": -85.21537017822266,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "martin_florida_unitedstates",
-              "displayName": "Martin",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 27.077486038208008,
-              "long": -80.43122863769531,
-              "parentId": "florida_unitedstates"
-            },
-            {
-              "id": "monroe_florida_unitedstates",
-              "displayName": "Monroe",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 25.515178680419922,
-              "long": -81.0296630859375,
-              "parentId": "florida_unitedstates"
-            },
-            {
               "id": "baker_florida_unitedstates",
               "displayName": "Baker",
               "areas": [],
-              "totalConfirmed": 1,
+              "totalConfirmed": 2,
               "totalDeaths": 0,
               "totalRecovered": 0,
               "lat": 30.331029891967773,
@@ -1236,14 +940,168 @@
               "parentId": "florida_unitedstates"
             },
             {
-              "id": "columbia_florida_unitedstates",
-              "displayName": "Columbia",
+              "id": "bradford_florida_unitedstates",
+              "displayName": "Bradford",
               "areas": [],
               "totalConfirmed": 1,
               "totalDeaths": 0,
               "totalRecovered": 0,
+              "lat": 29.94996452331543,
+              "long": -82.16877746582031,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "brevard_florida_unitedstates",
+              "displayName": "Brevard",
+              "areas": [],
+              "totalConfirmed": 7,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 28.293485641479492,
+              "long": -80.73235321044922,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "broward_florida_unitedstates",
+              "displayName": "Broward",
+              "areas": [],
+              "totalConfirmed": 217,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 26.152246475219727,
+              "long": -80.48703002929688,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "charlotte_florida_unitedstates",
+              "displayName": "Charlotte",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 26.901477813720703,
+              "long": -81.92887115478516,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "citrus_florida_unitedstates",
+              "displayName": "Citrus",
+              "areas": [],
+              "totalConfirmed": 8,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 28.850418090820312,
+              "long": -82.46709442138672,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "clay_florida_unitedstates",
+              "displayName": "Clay",
+              "areas": [],
+              "totalConfirmed": 7,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 29.983055114746094,
+              "long": -81.85778045654297,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "collier_florida_unitedstates",
+              "displayName": "Collier",
+              "areas": [],
+              "totalConfirmed": 33,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 26.109399795532227,
+              "long": -81.34837341308594,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "columbia_florida_unitedstates",
+              "displayName": "Columbia",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
               "lat": 30.22449493408203,
               "long": -82.62153625488281,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "dade_florida_unitedstates",
+              "displayName": "Dade",
+              "areas": [],
+              "totalConfirmed": 227,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 25.60788917541504,
+              "long": -80.53448486328125,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "desoto_florida_unitedstates",
+              "displayName": "Desoto",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 27.18625831604004,
+              "long": -81.80950164794922,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "duval_florida_unitedstates",
+              "displayName": "Duval",
+              "areas": [],
+              "totalConfirmed": 39,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 30.331594467163086,
+              "long": -81.67079162597656,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "escambia_florida_unitedstates",
+              "displayName": "Escambia",
+              "areas": [],
+              "totalConfirmed": 4,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 30.666954040527344,
+              "long": -87.36062622070312,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "flagler_florida_unitedstates",
+              "displayName": "Flagler",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 29.4614200592041,
+              "long": -81.31356048583984,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "gadsden_florida_unitedstates",
+              "displayName": "Gadsden",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 30.579498291015625,
+              "long": -84.61353302001953,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "hernando_florida_unitedstates",
+              "displayName": "Hernando",
+              "areas": [],
+              "totalConfirmed": 5,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 28.552366256713867,
+              "long": -82.4189682006836,
               "parentId": "florida_unitedstates"
             },
             {
@@ -1258,6 +1116,17 @@
               "parentId": "florida_unitedstates"
             },
             {
+              "id": "hillsborough_florida_unitedstates",
+              "displayName": "Hillsborough",
+              "areas": [],
+              "totalConfirmed": 58,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 27.911405563354492,
+              "long": -82.33931732177734,
+              "parentId": "florida_unitedstates"
+            },
+            {
               "id": "indianriver_florida_unitedstates",
               "displayName": "Indian River",
               "areas": [],
@@ -1266,6 +1135,61 @@
               "totalRecovered": 0,
               "lat": 27.694374084472656,
               "long": -80.60608673095703,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "jackson_florida_unitedstates",
+              "displayName": "Jackson",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 30.795330047607422,
+              "long": -85.21537017822266,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "lake_florida_unitedstates",
+              "displayName": "Lake",
+              "areas": [],
+              "totalConfirmed": 6,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 28.76155662536621,
+              "long": -81.71121978759766,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "lee_florida_unitedstates",
+              "displayName": "Lee",
+              "areas": [],
+              "totalConfirmed": 26,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 26.584827423095703,
+              "long": -81.880126953125,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "leon_florida_unitedstates",
+              "displayName": "Leon",
+              "areas": [],
+              "totalConfirmed": 5,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 30.45796775817871,
+              "long": -84.27794647216797,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "manatee_florida_unitedstates",
+              "displayName": "Manatee",
+              "areas": [],
+              "totalConfirmed": 13,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 27.477310180664062,
+              "long": -82.3348388671875,
               "parentId": "florida_unitedstates"
             },
             {
@@ -1280,10 +1204,120 @@
               "parentId": "florida_unitedstates"
             },
             {
+              "id": "martin_florida_unitedstates",
+              "displayName": "Martin",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 27.077486038208008,
+              "long": -80.43122863769531,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "monroe_florida_unitedstates",
+              "displayName": "Monroe",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 25.515178680419922,
+              "long": -81.0296630859375,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "nassau_florida_unitedstates",
+              "displayName": "Nassau",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 30.610706329345703,
+              "long": -81.80146789550781,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "okaloosa_florida_unitedstates",
+              "displayName": "Okaloosa",
+              "areas": [],
+              "totalConfirmed": 14,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 30.69118881225586,
+              "long": -86.59171295166016,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "orange_florida_unitedstates",
+              "displayName": "Orange",
+              "areas": [],
+              "totalConfirmed": 33,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 28.514442443847656,
+              "long": -81.3234634399414,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "osceola_florida_unitedstates",
+              "displayName": "Osceola",
+              "areas": [],
+              "totalConfirmed": 24,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 28.062538146972656,
+              "long": -81.1495361328125,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "palmbeach_florida_unitedstates",
+              "displayName": "Palm Beach",
+              "areas": [],
+              "totalConfirmed": 72,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 26.64753532409668,
+              "long": -80.4654312133789,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "pasco_florida_unitedstates",
+              "displayName": "Pasco",
+              "areas": [],
+              "totalConfirmed": 11,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 28.307771682739258,
+              "long": -82.3968276977539,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "pinellas_florida_unitedstates",
+              "displayName": "Pinellas",
+              "areas": [],
+              "totalConfirmed": 38,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 27.9102840423584,
+              "long": -82.71943664550781,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "polk_florida_unitedstates",
+              "displayName": "Polk",
+              "areas": [],
+              "totalConfirmed": 11,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 27.948881149291992,
+              "long": -81.69776153564453,
+              "parentId": "florida_unitedstates"
+            },
+            {
               "id": "putnam_florida_unitedstates",
               "displayName": "Putnam",
               "areas": [],
-              "totalConfirmed": 1,
+              "totalConfirmed": 2,
               "totalDeaths": 0,
               "totalRecovered": 0,
               "lat": 29.60860252380371,
@@ -1291,21 +1325,98 @@
               "parentId": "florida_unitedstates"
             },
             {
+              "id": "santarosa_florida_unitedstates",
+              "displayName": "Santa Rosa",
+              "areas": [],
+              "totalConfirmed": 4,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 30.701292037963867,
+              "long": -87.02233123779297,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "sarasota_florida_unitedstates",
+              "displayName": "Sarasota",
+              "areas": [],
+              "totalConfirmed": 17,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 27.184507369995117,
+              "long": -82.33183288574219,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "seminole_florida_unitedstates",
+              "displayName": "Seminole",
+              "areas": [],
+              "totalConfirmed": 19,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 28.71700096130371,
+              "long": -81.23632049560547,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "stjohns_florida_unitedstates",
+              "displayName": "St. Johns",
+              "areas": [],
+              "totalConfirmed": 16,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 29.901628494262695,
+              "long": -81.44029235839844,
+              "parentId": "florida_unitedstates"
+            },
+            {
               "id": "stlucie_florida_unitedstates",
               "displayName": "St. Lucie",
               "areas": [],
-              "totalConfirmed": 2,
+              "totalConfirmed": 3,
               "totalDeaths": 0,
               "totalRecovered": 0,
               "lat": 27.377376556396484,
               "long": -80.47196197509766,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "sumter_florida_unitedstates",
+              "displayName": "Sumter",
+              "areas": [],
+              "totalConfirmed": 5,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 28.704744338989258,
+              "long": -82.08099365234375,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "volusia_florida_unitedstates",
+              "displayName": "Volusia",
+              "areas": [],
+              "totalConfirmed": 14,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 29.058382034301758,
+              "long": -81.18183135986328,
+              "parentId": "florida_unitedstates"
+            },
+            {
+              "id": "walton_florida_unitedstates",
+              "displayName": "Walton",
+              "areas": [],
+              "totalConfirmed": 4,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 30.64362335205078,
+              "long": -86.16960906982422,
               "parentId": "florida_unitedstates"
             }
           ],
           "totalConfirmed": 768,
           "totalDeaths": 13,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 27.766279,
           "long": -81.686783,
           "parentId": "unitedstates"
@@ -1315,223 +1426,14 @@
           "displayName": "Georgia",
           "areas": [
             {
-              "id": "fulton_georgia_unitedstates",
-              "displayName": "Fulton",
+              "id": "baldwin_georgia_unitedstates",
+              "displayName": "Baldwin",
               "areas": [],
-              "totalConfirmed": 92,
+              "totalConfirmed": 2,
               "totalDeaths": 0,
               "totalRecovered": 0,
-              "lat": 33.79024124145508,
-              "long": -84.46710968017578,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "cobb_georgia_unitedstates",
-              "displayName": "Cobb",
-              "areas": [],
-              "totalConfirmed": 49,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.94147872924805,
-              "long": -84.5766372680664,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "dekalb_georgia_unitedstates",
-              "displayName": "Dekalb",
-              "areas": [],
-              "totalConfirmed": 37,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.771541595458984,
-              "long": -84.2264633178711,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "bartow_georgia_unitedstates",
-              "displayName": "Bartow",
-              "areas": [],
-              "totalConfirmed": 56,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 34.237770080566406,
-              "long": -84.84053039550781,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "gwinnett_georgia_unitedstates",
-              "displayName": "Gwinnett",
-              "areas": [],
-              "totalConfirmed": 23,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.96174621582031,
-              "long": -84.02367401123047,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "cherokee_georgia_unitedstates",
-              "displayName": "Cherokee",
-              "areas": [],
-              "totalConfirmed": 17,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 34.243980407714844,
-              "long": -84.47627258300781,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "floyd_georgia_unitedstates",
-              "displayName": "Floyd",
-              "areas": [],
-              "totalConfirmed": 8,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 34.263179779052734,
-              "long": -85.21420288085938,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "dougherty_georgia_unitedstates",
-              "displayName": "Dougherty",
-              "areas": [],
-              "totalConfirmed": 46,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 31.533323287963867,
-              "long": -84.21629333496094,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "fayette_georgia_unitedstates",
-              "displayName": "Fayette",
-              "areas": [],
-              "totalConfirmed": 9,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.413909912109375,
-              "long": -84.49427032470703,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "clayton_georgia_unitedstates",
-              "displayName": "Clayton",
-              "areas": [],
-              "totalConfirmed": 11,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.541969299316406,
-              "long": -84.35769653320312,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "lowndes_georgia_unitedstates",
-              "displayName": "Lowndes",
-              "areas": [],
-              "totalConfirmed": 7,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 30.833627700805664,
-              "long": -83.26769256591797,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "clarke_georgia_unitedstates",
-              "displayName": "Clarke",
-              "areas": [],
-              "totalConfirmed": 10,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.951107025146484,
-              "long": -83.3674087524414,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "coweta_georgia_unitedstates",
-              "displayName": "Coweta",
-              "areas": [],
-              "totalConfirmed": 7,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.35360336303711,
-              "long": -84.76336669921875,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "gordon_georgia_unitedstates",
-              "displayName": "Gordon",
-              "areas": [],
-              "totalConfirmed": 3,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 34.5032958984375,
-              "long": -84.87572479248047,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "troup_georgia_unitedstates",
-              "displayName": "Troup",
-              "areas": [],
-              "totalConfirmed": 3,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.03351974487305,
-              "long": -85.02825927734375,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "lee_georgia_unitedstates",
-              "displayName": "Lee",
-              "areas": [],
-              "totalConfirmed": 14,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 31.77959632873535,
-              "long": -84.14087677001953,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "henry_georgia_unitedstates",
-              "displayName": "Henry",
-              "areas": [],
-              "totalConfirmed": 6,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.4530143737793,
-              "long": -84.15426635742188,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "forsyth_georgia_unitedstates",
-              "displayName": "Forsyth",
-              "areas": [],
-              "totalConfirmed": 3,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 34.225521087646484,
-              "long": -84.12509155273438,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "polk_georgia_unitedstates",
-              "displayName": "Polk",
-              "areas": [],
-              "totalConfirmed": 3,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 34.001686096191406,
-              "long": -85.1881103515625,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "hall_georgia_unitedstates",
-              "displayName": "Hall",
-              "areas": [],
-              "totalConfirmed": 6,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 34.31681823730469,
-              "long": -83.81964111328125,
+              "lat": 33.0689811706543,
+              "long": -83.24986267089844,
               "parentId": "georgia_unitedstates"
             },
             {
@@ -1546,69 +1448,14 @@
               "parentId": "georgia_unitedstates"
             },
             {
-              "id": "charlton_georgia_unitedstates",
-              "displayName": "Charlton",
+              "id": "bartow_georgia_unitedstates",
+              "displayName": "Bartow",
               "areas": [],
-              "totalConfirmed": 1,
+              "totalConfirmed": 56,
               "totalDeaths": 0,
               "totalRecovered": 0,
-              "lat": 30.78171157836914,
-              "long": -82.13776397705078,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "columbia_georgia_unitedstates",
-              "displayName": "Columbia",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.54417037963867,
-              "long": -82.26410675048828,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "rockdale_georgia_unitedstates",
-              "displayName": "Rockdale",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.65422439575195,
-              "long": -84.02668762207031,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "newton_georgia_unitedstates",
-              "displayName": "Newton",
-              "areas": [],
-              "totalConfirmed": 4,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.55500793457031,
-              "long": -83.8502197265625,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "paulding_georgia_unitedstates",
-              "displayName": "Paulding",
-              "areas": [],
-              "totalConfirmed": 3,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.92042541503906,
-              "long": -84.86720275878906,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "richmond_georgia_unitedstates",
-              "displayName": "Richmond",
-              "areas": [],
-              "totalConfirmed": 9,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.3596305847168,
-              "long": -82.07361602783203,
+              "lat": 34.237770080566406,
+              "long": -84.84053039550781,
               "parentId": "georgia_unitedstates"
             },
             {
@@ -1634,6 +1481,17 @@
               "parentId": "georgia_unitedstates"
             },
             {
+              "id": "charlton_georgia_unitedstates",
+              "displayName": "Charlton",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 30.78171157836914,
+              "long": -82.13776397705078,
+              "parentId": "georgia_unitedstates"
+            },
+            {
               "id": "chatham_georgia_unitedstates",
               "displayName": "Chatham",
               "areas": [],
@@ -1645,6 +1503,72 @@
               "parentId": "georgia_unitedstates"
             },
             {
+              "id": "cherokee_georgia_unitedstates",
+              "displayName": "Cherokee",
+              "areas": [],
+              "totalConfirmed": 17,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 34.243980407714844,
+              "long": -84.47627258300781,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "clarke_georgia_unitedstates",
+              "displayName": "Clarke",
+              "areas": [],
+              "totalConfirmed": 10,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.951107025146484,
+              "long": -83.3674087524414,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "clayton_georgia_unitedstates",
+              "displayName": "Clayton",
+              "areas": [],
+              "totalConfirmed": 11,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.541969299316406,
+              "long": -84.35769653320312,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "cobb_georgia_unitedstates",
+              "displayName": "Cobb",
+              "areas": [],
+              "totalConfirmed": 49,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.94147872924805,
+              "long": -84.5766372680664,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "columbia_georgia_unitedstates",
+              "displayName": "Columbia",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.54417037963867,
+              "long": -82.26410675048828,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "coweta_georgia_unitedstates",
+              "displayName": "Coweta",
+              "areas": [],
+              "totalConfirmed": 7,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.35360336303711,
+              "long": -84.76336669921875,
+              "parentId": "georgia_unitedstates"
+            },
+            {
               "id": "dawson_georgia_unitedstates",
               "displayName": "Dawson",
               "areas": [],
@@ -1653,6 +1577,28 @@
               "totalRecovered": 0,
               "lat": 34.444297790527344,
               "long": -84.17066955566406,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "dekalb_georgia_unitedstates",
+              "displayName": "Dekalb",
+              "areas": [],
+              "totalConfirmed": 37,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.771541595458984,
+              "long": -84.2264633178711,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "dougherty_georgia_unitedstates",
+              "displayName": "Dougherty",
+              "areas": [],
+              "totalConfirmed": 46,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 31.533323287963867,
+              "long": -84.21629333496094,
               "parentId": "georgia_unitedstates"
             },
             {
@@ -1689,6 +1635,50 @@
               "parentId": "georgia_unitedstates"
             },
             {
+              "id": "fayette_georgia_unitedstates",
+              "displayName": "Fayette",
+              "areas": [],
+              "totalConfirmed": 9,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.413909912109375,
+              "long": -84.49427032470703,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "floyd_georgia_unitedstates",
+              "displayName": "Floyd",
+              "areas": [],
+              "totalConfirmed": 8,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 34.263179779052734,
+              "long": -85.21420288085938,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "forsyth_georgia_unitedstates",
+              "displayName": "Forsyth",
+              "areas": [],
+              "totalConfirmed": 3,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 34.225521087646484,
+              "long": -84.12509155273438,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "fulton_georgia_unitedstates",
+              "displayName": "Fulton",
+              "areas": [],
+              "totalConfirmed": 92,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.79024124145508,
+              "long": -84.46710968017578,
+              "parentId": "georgia_unitedstates"
+            },
+            {
               "id": "glynn_georgia_unitedstates",
               "displayName": "Glynn",
               "areas": [],
@@ -1697,6 +1687,39 @@
               "totalRecovered": 0,
               "lat": 31.230791091918945,
               "long": -81.54042053222656,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "gordon_georgia_unitedstates",
+              "displayName": "Gordon",
+              "areas": [],
+              "totalConfirmed": 3,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 34.5032958984375,
+              "long": -84.87572479248047,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "gwinnett_georgia_unitedstates",
+              "displayName": "Gwinnett",
+              "areas": [],
+              "totalConfirmed": 23,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.96174621582031,
+              "long": -84.02367401123047,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "hall_georgia_unitedstates",
+              "displayName": "Hall",
+              "areas": [],
+              "totalConfirmed": 6,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 34.31681823730469,
+              "long": -83.81964111328125,
               "parentId": "georgia_unitedstates"
             },
             {
@@ -1711,6 +1734,17 @@
               "parentId": "georgia_unitedstates"
             },
             {
+              "id": "henry_georgia_unitedstates",
+              "displayName": "Henry",
+              "areas": [],
+              "totalConfirmed": 6,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.4530143737793,
+              "long": -84.15426635742188,
+              "parentId": "georgia_unitedstates"
+            },
+            {
               "id": "houston_georgia_unitedstates",
               "displayName": "Houston",
               "areas": [],
@@ -1722,6 +1756,17 @@
               "parentId": "georgia_unitedstates"
             },
             {
+              "id": "lamar_georgia_unitedstates",
+              "displayName": "Lamar",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.0764274597168,
+              "long": -84.13951110839844,
+              "parentId": "georgia_unitedstates"
+            },
+            {
               "id": "laurens_georgia_unitedstates",
               "displayName": "Laurens",
               "areas": [],
@@ -1730,6 +1775,39 @@
               "totalRecovered": 0,
               "lat": 32.463687896728516,
               "long": -82.92216491699219,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "lee_georgia_unitedstates",
+              "displayName": "Lee",
+              "areas": [],
+              "totalConfirmed": 14,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 31.77959632873535,
+              "long": -84.14087677001953,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "lincoln_georgia_unitedstates",
+              "displayName": "Lincoln",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.79358673095703,
+              "long": -82.45133209228516,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "lowndes_georgia_unitedstates",
+              "displayName": "Lowndes",
+              "areas": [],
+              "totalConfirmed": 7,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 30.833627700805664,
+              "long": -83.26769256591797,
               "parentId": "georgia_unitedstates"
             },
             {
@@ -1766,6 +1844,17 @@
               "parentId": "georgia_unitedstates"
             },
             {
+              "id": "newton_georgia_unitedstates",
+              "displayName": "Newton",
+              "areas": [],
+              "totalConfirmed": 4,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.55500793457031,
+              "long": -83.8502197265625,
+              "parentId": "georgia_unitedstates"
+            },
+            {
               "id": "oconee_georgia_unitedstates",
               "displayName": "Oconee",
               "areas": [],
@@ -1774,6 +1863,17 @@
               "totalRecovered": 0,
               "lat": 33.834861755371094,
               "long": -83.43704223632812,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "paulding_georgia_unitedstates",
+              "displayName": "Paulding",
+              "areas": [],
+              "totalConfirmed": 3,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.92042541503906,
+              "long": -84.86720275878906,
               "parentId": "georgia_unitedstates"
             },
             {
@@ -1788,6 +1888,28 @@
               "parentId": "georgia_unitedstates"
             },
             {
+              "id": "pickens_georgia_unitedstates",
+              "displayName": "Pickens",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 34.46428680419922,
+              "long": -84.46565246582031,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "polk_georgia_unitedstates",
+              "displayName": "Polk",
+              "areas": [],
+              "totalConfirmed": 3,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 34.001686096191406,
+              "long": -85.1881103515625,
+              "parentId": "georgia_unitedstates"
+            },
+            {
               "id": "randolph_georgia_unitedstates",
               "displayName": "Randolph",
               "areas": [],
@@ -1799,6 +1921,28 @@
               "parentId": "georgia_unitedstates"
             },
             {
+              "id": "richmond_georgia_unitedstates",
+              "displayName": "Richmond",
+              "areas": [],
+              "totalConfirmed": 9,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.3596305847168,
+              "long": -82.07361602783203,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "rockdale_georgia_unitedstates",
+              "displayName": "Rockdale",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.65422439575195,
+              "long": -84.02668762207031,
+              "parentId": "georgia_unitedstates"
+            },
+            {
               "id": "spalding_georgia_unitedstates",
               "displayName": "Spalding",
               "areas": [],
@@ -1807,6 +1951,17 @@
               "totalRecovered": 0,
               "lat": 33.260860443115234,
               "long": -84.28421020507812,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "sumter_georgia_unitedstates",
+              "displayName": "Sumter",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 32.039939880371094,
+              "long": -84.19705963134766,
               "parentId": "georgia_unitedstates"
             },
             {
@@ -1829,6 +1984,17 @@
               "totalRecovered": 0,
               "lat": 31.457321166992188,
               "long": -83.52671813964844,
+              "parentId": "georgia_unitedstates"
+            },
+            {
+              "id": "troup_georgia_unitedstates",
+              "displayName": "Troup",
+              "areas": [],
+              "totalConfirmed": 3,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 33.03351974487305,
+              "long": -85.02825927734375,
               "parentId": "georgia_unitedstates"
             },
             {
@@ -1863,67 +2029,12 @@
               "lat": 31.55158805847168,
               "long": -83.85098266601562,
               "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "baldwin_georgia_unitedstates",
-              "displayName": "Baldwin",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.0689811706543,
-              "long": -83.24986267089844,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "lamar_georgia_unitedstates",
-              "displayName": "Lamar",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.0764274597168,
-              "long": -84.13951110839844,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "lincoln_georgia_unitedstates",
-              "displayName": "Lincoln",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 33.79358673095703,
-              "long": -82.45133209228516,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "pickens_georgia_unitedstates",
-              "displayName": "Pickens",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 34.46428680419922,
-              "long": -84.46565246582031,
-              "parentId": "georgia_unitedstates"
-            },
-            {
-              "id": "sumter_georgia_unitedstates",
-              "displayName": "Sumter",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 32.039939880371094,
-              "long": -84.19705963134766,
-              "parentId": "georgia_unitedstates"
             }
           ],
           "totalConfirmed": 555,
           "totalDeaths": 20,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 33.040619,
           "long": -83.643074,
           "parentId": "unitedstates"
@@ -1935,7 +2046,7 @@
           "totalConfirmed": 15,
           "totalDeaths": 1,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 13.443708,
           "long": 144.777742,
           "parentId": "unitedstates"
@@ -1959,7 +2070,7 @@
               "id": "honolulu_hawaii_unitedstates",
               "displayName": "Honolulu",
               "areas": [],
-              "totalConfirmed": 35,
+              "totalConfirmed": 41,
               "totalDeaths": 0,
               "totalRecovered": 0,
               "lat": 21.44451332092285,
@@ -1981,7 +2092,7 @@
               "id": "maui_hawaii_unitedstates",
               "displayName": "Maui",
               "areas": [],
-              "totalConfirmed": 7,
+              "totalConfirmed": 9,
               "totalDeaths": 0,
               "totalRecovered": 0,
               "lat": 20.791156768798828,
@@ -1992,7 +2103,7 @@
           "totalConfirmed": 48,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 21.094318,
           "long": -157.498337,
           "parentId": "unitedstates"
@@ -2093,7 +2204,7 @@
           "totalConfirmed": 42,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 44.240459,
           "long": -114.478828,
           "parentId": "unitedstates"
@@ -2103,58 +2214,36 @@
           "displayName": "Illinois",
           "areas": [
             {
-              "id": "cook_illinois_unitedstates",
-              "displayName": "Cook",
+              "id": "adams_illinois_unitedstates",
+              "displayName": "Adams",
               "areas": [],
-              "totalConfirmed": 548,
+              "totalConfirmed": 1,
               "totalDeaths": 0,
               "totalRecovered": 0,
-              "lat": 41.890533447265625,
-              "long": -87.69042205810547,
+              "lat": 39.987884521484375,
+              "long": -91.18844604492188,
               "parentId": "illinois_unitedstates"
             },
             {
-              "id": "dupage_illinois_unitedstates",
-              "displayName": "DuPage",
+              "id": "champaign_illinois_unitedstates",
+              "displayName": "Champaign",
               "areas": [],
-              "totalConfirmed": 65,
+              "totalConfirmed": 2,
               "totalDeaths": 0,
               "totalRecovered": 0,
-              "lat": 41.8519401550293,
-              "long": -88.08560943603516,
+              "lat": 40.14008712768555,
+              "long": -88.19915771484375,
               "parentId": "illinois_unitedstates"
             },
             {
-              "id": "lake_illinois_unitedstates",
-              "displayName": "Lake",
+              "id": "christian_illinois_unitedstates",
+              "displayName": "Christian",
               "areas": [],
-              "totalConfirmed": 63,
+              "totalConfirmed": 1,
               "totalDeaths": 0,
               "totalRecovered": 0,
-              "lat": 42.326637268066406,
-              "long": -87.68607330322266,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "kane_illinois_unitedstates",
-              "displayName": "Kane",
-              "areas": [],
-              "totalConfirmed": 8,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 41.938873291015625,
-              "long": -88.42863464355469,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "sangamon_illinois_unitedstates",
-              "displayName": "Sangamon",
-              "areas": [],
-              "totalConfirmed": 4,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 39.75815963745117,
-              "long": -89.65888977050781,
+              "lat": 39.5457763671875,
+              "long": -89.27725219726562,
               "parentId": "illinois_unitedstates"
             },
             {
@@ -2169,47 +2258,14 @@
               "parentId": "illinois_unitedstates"
             },
             {
-              "id": "stclair_illinois_unitedstates",
-              "displayName": "St. Clair",
+              "id": "cook_illinois_unitedstates",
+              "displayName": "Cook",
               "areas": [],
-              "totalConfirmed": 3,
+              "totalConfirmed": 805,
               "totalDeaths": 0,
               "totalRecovered": 0,
-              "lat": 38.470333099365234,
-              "long": -89.92842102050781,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "mchenry_illinois_unitedstates",
-              "displayName": "McHenry",
-              "areas": [],
-              "totalConfirmed": 11,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 42.32435607910156,
-              "long": -88.45243072509766,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "will_illinois_unitedstates",
-              "displayName": "Will",
-              "areas": [],
-              "totalConfirmed": 12,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 41.4450569152832,
-              "long": -87.97865295410156,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "champaign_illinois_unitedstates",
-              "displayName": "Champaign",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 40.14008712768555,
-              "long": -88.19915771484375,
+              "lat": 41.890533447265625,
+              "long": -87.69042205810547,
               "parentId": "illinois_unitedstates"
             },
             {
@@ -2224,6 +2280,127 @@
               "parentId": "illinois_unitedstates"
             },
             {
+              "id": "dekalb_illinois_unitedstates",
+              "displayName": "DeKalb",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.893558502197266,
+              "long": -88.7702865600586,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "dupage_illinois_unitedstates",
+              "displayName": "DuPage",
+              "areas": [],
+              "totalConfirmed": 79,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.8519401550293,
+              "long": -88.08560943603516,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "jackson_illinois_unitedstates",
+              "displayName": "Jackson",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 37.78510665893555,
+              "long": -89.38207244873047,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "kane_illinois_unitedstates",
+              "displayName": "Kane",
+              "areas": [],
+              "totalConfirmed": 13,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.938873291015625,
+              "long": -88.42863464355469,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "kankakee_illinois_unitedstates",
+              "displayName": "Kankakee",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.13771438598633,
+              "long": -87.86181640625,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "kendall_illinois_unitedstates",
+              "displayName": "Kendall",
+              "areas": [],
+              "totalConfirmed": 4,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.5905876159668,
+              "long": -88.42880249023438,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "lake_illinois_unitedstates",
+              "displayName": "Lake",
+              "areas": [],
+              "totalConfirmed": 69,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 42.326637268066406,
+              "long": -87.68607330322266,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "lasalle_illinois_unitedstates",
+              "displayName": "LaSalle",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.3440055847168,
+              "long": -88.88594818115234,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "madison_illinois_unitedstates",
+              "displayName": "Madison",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 38.82978057861328,
+              "long": -89.90503692626953,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "mchenry_illinois_unitedstates",
+              "displayName": "McHenry",
+              "areas": [],
+              "totalConfirmed": 12,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 42.32435607910156,
+              "long": -88.45243072509766,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "mclean_illinois_unitedstates",
+              "displayName": "McLean",
+              "areas": [],
+              "totalConfirmed": 6,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 40.490875244140625,
+              "long": -88.8473129272461,
+              "parentId": "illinois_unitedstates"
+            },
+            {
               "id": "peoria_illinois_unitedstates",
               "displayName": "Peoria",
               "areas": [],
@@ -2232,6 +2409,39 @@
               "totalRecovered": 0,
               "lat": 40.788028717041016,
               "long": -89.76010131835938,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "sangamon_illinois_unitedstates",
+              "displayName": "Sangamon",
+              "areas": [],
+              "totalConfirmed": 4,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 39.75815963745117,
+              "long": -89.65888977050781,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "stclair_illinois_unitedstates",
+              "displayName": "St. Clair",
+              "areas": [],
+              "totalConfirmed": 3,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 38.470333099365234,
+              "long": -89.92842102050781,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "washington_illinois_unitedstates",
+              "displayName": "Washington",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 38.35225296020508,
+              "long": -89.41049194335938,
               "parentId": "illinois_unitedstates"
             },
             {
@@ -2246,10 +2456,32 @@
               "parentId": "illinois_unitedstates"
             },
             {
+              "id": "will_illinois_unitedstates",
+              "displayName": "Will",
+              "areas": [],
+              "totalConfirmed": 21,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.4450569152832,
+              "long": -87.97865295410156,
+              "parentId": "illinois_unitedstates"
+            },
+            {
+              "id": "williamson_illinois_unitedstates",
+              "displayName": "Williamson",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 37.730167388916016,
+              "long": -88.9299087524414,
+              "parentId": "illinois_unitedstates"
+            },
+            {
               "id": "winnebago_illinois_unitedstates",
               "displayName": "Winnebago",
               "areas": [],
-              "totalConfirmed": 4,
+              "totalConfirmed": 5,
               "totalDeaths": 0,
               "totalRecovered": 0,
               "lat": 42.33625793457031,
@@ -2266,133 +2498,12 @@
               "lat": 40.788307189941406,
               "long": -89.2112808227539,
               "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "kendall_illinois_unitedstates",
-              "displayName": "Kendall",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 41.5905876159668,
-              "long": -88.42880249023438,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "lasalle_illinois_unitedstates",
-              "displayName": "LaSalle",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 41.3440055847168,
-              "long": -88.88594818115234,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "kankakee_illinois_unitedstates",
-              "displayName": "Kankakee",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 41.13771438598633,
-              "long": -87.86181640625,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "madison_illinois_unitedstates",
-              "displayName": "Madison",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 38.82978057861328,
-              "long": -89.90503692626953,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "washington_illinois_unitedstates",
-              "displayName": "Washington",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 38.35225296020508,
-              "long": -89.41049194335938,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "jackson_illinois_unitedstates",
-              "displayName": "Jackson",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 37.78510665893555,
-              "long": -89.38207244873047,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "williamson_illinois_unitedstates",
-              "displayName": "Williamson",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 37.730167388916016,
-              "long": -88.9299087524414,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "adams_illinois_unitedstates",
-              "displayName": "Adams",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 39.987884521484375,
-              "long": -91.18844604492188,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "christian_illinois_unitedstates",
-              "displayName": "Christian",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 39.5457763671875,
-              "long": -89.27725219726562,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "mclean_illinois_unitedstates",
-              "displayName": "McLean",
-              "areas": [],
-              "totalConfirmed": 6,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 40.490875244140625,
-              "long": -88.8473129272461,
-              "parentId": "illinois_unitedstates"
-            },
-            {
-              "id": "dekalb_illinois_unitedstates",
-              "displayName": "DeKalb",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 41.893558502197266,
-              "long": -88.7702865600586,
-              "parentId": "illinois_unitedstates"
             }
           ],
           "totalConfirmed": 1049,
           "totalDeaths": 9,
           "totalRecovered": 2,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 40.349457,
           "long": -88.986137,
           "parentId": "unitedstates"
@@ -2402,94 +2513,6 @@
           "displayName": "Indiana",
           "areas": [
             {
-              "id": "marion_indiana_unitedstates",
-              "displayName": "Marion",
-              "areas": [],
-              "totalConfirmed": 82,
-              "totalDeaths": 2,
-              "totalRecovered": 0,
-              "lat": 39.781742095947266,
-              "long": -86.13841247558594,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "hendricks_indiana_unitedstates",
-              "displayName": "Hendricks",
-              "areas": [],
-              "totalConfirmed": 8,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 39.76945495605469,
-              "long": -86.50994873046875,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "howard_indiana_unitedstates",
-              "displayName": "Howard",
-              "areas": [],
-              "totalConfirmed": 6,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 40.48359680175781,
-              "long": -86.11685943603516,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "lake_indiana_unitedstates",
-              "displayName": "Lake",
-              "areas": [],
-              "totalConfirmed": 10,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 41.47196578979492,
-              "long": -87.37651062011719,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "johnson_indiana_unitedstates",
-              "displayName": "Johnson",
-              "areas": [],
-              "totalConfirmed": 12,
-              "totalDeaths": 1,
-              "totalRecovered": 0,
-              "lat": 39.48998260498047,
-              "long": -86.10160827636719,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "stjoseph_indiana_unitedstates",
-              "displayName": "St Joseph",
-              "areas": [],
-              "totalConfirmed": 8,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 41.61673355102539,
-              "long": -86.28985595703125,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "hamilton_indiana_unitedstates",
-              "displayName": "Hamilton",
-              "areas": [],
-              "totalConfirmed": 18,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 40.072513580322266,
-              "long": -86.05201721191406,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "franklin_indiana_unitedstates",
-              "displayName": "Franklin",
-              "areas": [],
-              "totalConfirmed": 4,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 39.41487121582031,
-              "long": -85.06024932861328,
-              "parentId": "indiana_unitedstates"
-            },
-            {
               "id": "adams_indiana_unitedstates",
               "displayName": "Adams",
               "areas": [],
@@ -2498,6 +2521,17 @@
               "totalRecovered": 0,
               "lat": 40.74565124511719,
               "long": -84.93663024902344,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "allen_indiana_unitedstates",
+              "displayName": "Allen",
+              "areas": [],
+              "totalConfirmed": 4,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.09086227416992,
+              "long": -85.06653594970703,
               "parentId": "indiana_unitedstates"
             },
             {
@@ -2534,6 +2568,39 @@
               "parentId": "indiana_unitedstates"
             },
             {
+              "id": "delaware_indiana_unitedstates",
+              "displayName": "Delaware",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 1,
+              "totalRecovered": 0,
+              "lat": 40.22750473022461,
+              "long": -85.39691162109375,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "dubois_indiana_unitedstates",
+              "displayName": "Dubois",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 38.36429214477539,
+              "long": -86.87980651855469,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "elkhart_indiana_unitedstates",
+              "displayName": "Elkhart",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.59735870361328,
+              "long": -85.85875701904297,
+              "parentId": "indiana_unitedstates"
+            },
+            {
               "id": "fayette_indiana_unitedstates",
               "displayName": "Fayette",
               "areas": [],
@@ -2556,102 +2623,14 @@
               "parentId": "indiana_unitedstates"
             },
             {
-              "id": "laporte_indiana_unitedstates",
-              "displayName": "LaPorte",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 41.599998474121094,
-              "long": -86.71700286865234,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "jennings_indiana_unitedstates",
-              "displayName": "Jennings",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 38.99694061279297,
-              "long": -85.62804412841797,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "madison_indiana_unitedstates",
-              "displayName": "Madison",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 40.16165542602539,
-              "long": -85.7193603515625,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "noble_indiana_unitedstates",
-              "displayName": "Noble",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 41.398582458496094,
-              "long": -85.41744232177734,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "tippecanoe_indiana_unitedstates",
-              "displayName": "Tippecanoe",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 40.38856887817383,
-              "long": -86.89408874511719,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "wayne_indiana_unitedstates",
-              "displayName": "Wayne",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 39.864437103271484,
-              "long": -85.00984191894531,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "wells_indiana_unitedstates",
-              "displayName": "Wells",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 40.72919464111328,
-              "long": -85.2212142944336,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "owen_indiana_unitedstates",
-              "displayName": "Owen",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 39.31272888183594,
-              "long": -86.83763885498047,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "allen_indiana_unitedstates",
-              "displayName": "Allen",
+              "id": "franklin_indiana_unitedstates",
+              "displayName": "Franklin",
               "areas": [],
               "totalConfirmed": 4,
               "totalDeaths": 0,
               "totalRecovered": 0,
-              "lat": 41.09086227416992,
-              "long": -85.06653594970703,
+              "lat": 39.41487121582031,
+              "long": -85.06024932861328,
               "parentId": "indiana_unitedstates"
             },
             {
@@ -2666,58 +2645,14 @@
               "parentId": "indiana_unitedstates"
             },
             {
-              "id": "shelby_indiana_unitedstates",
-              "displayName": "Shelby",
+              "id": "hamilton_indiana_unitedstates",
+              "displayName": "Hamilton",
               "areas": [],
-              "totalConfirmed": 1,
+              "totalConfirmed": 18,
               "totalDeaths": 0,
               "totalRecovered": 0,
-              "lat": 39.5236701965332,
-              "long": -85.79167175292969,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "vanderburgh_indiana_unitedstates",
-              "displayName": "Vanderburgh",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 38.02507400512695,
-              "long": -87.5858383178711,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "vigo_indiana_unitedstates",
-              "displayName": "Vigo",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 39.43062973022461,
-              "long": -87.38994598388672,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "delaware_indiana_unitedstates",
-              "displayName": "Delaware",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 40.22750473022461,
-              "long": -85.39691162109375,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "elklhart_indiana_unitedstates",
-              "displayName": "Elklhart",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 40.652061462402344,
-              "long": -79.08750915527344,
+              "lat": 40.072513580322266,
+              "long": -86.05201721191406,
               "parentId": "indiana_unitedstates"
             },
             {
@@ -2743,6 +2678,94 @@
               "parentId": "indiana_unitedstates"
             },
             {
+              "id": "hendricks_indiana_unitedstates",
+              "displayName": "Hendricks",
+              "areas": [],
+              "totalConfirmed": 8,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 39.76945495605469,
+              "long": -86.50994873046875,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "howard_indiana_unitedstates",
+              "displayName": "Howard",
+              "areas": [],
+              "totalConfirmed": 6,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 40.48359680175781,
+              "long": -86.11685943603516,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "jennings_indiana_unitedstates",
+              "displayName": "Jennings",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 38.99694061279297,
+              "long": -85.62804412841797,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "johnson_indiana_unitedstates",
+              "displayName": "Johnson",
+              "areas": [],
+              "totalConfirmed": 12,
+              "totalDeaths": 1,
+              "totalRecovered": 0,
+              "lat": 39.48998260498047,
+              "long": -86.10160827636719,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "lake_indiana_unitedstates",
+              "displayName": "Lake",
+              "areas": [],
+              "totalConfirmed": 10,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.47196578979492,
+              "long": -87.37651062011719,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "laporte_indiana_unitedstates",
+              "displayName": "LaPorte",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.599998474121094,
+              "long": -86.71700286865234,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "madison_indiana_unitedstates",
+              "displayName": "Madison",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 40.16165542602539,
+              "long": -85.7193603515625,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "marion_indiana_unitedstates",
+              "displayName": "Marion",
+              "areas": [],
+              "totalConfirmed": 82,
+              "totalDeaths": 3,
+              "totalRecovered": 0,
+              "lat": 39.781742095947266,
+              "long": -86.13841247558594,
+              "parentId": "indiana_unitedstates"
+            },
+            {
               "id": "miami_indiana_unitedstates",
               "displayName": "Miami",
               "areas": [],
@@ -2751,28 +2774,6 @@
               "totalRecovered": 0,
               "lat": 40.76943588256836,
               "long": -86.04496002197266,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "scott_indiana_unitedstates",
-              "displayName": "Scott",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 38.68501663208008,
-              "long": -85.74748229980469,
-              "parentId": "indiana_unitedstates"
-            },
-            {
-              "id": "dubois_indiana_unitedstates",
-              "displayName": "Dubois",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 38.36429214477539,
-              "long": -86.87980651855469,
               "parentId": "indiana_unitedstates"
             },
             {
@@ -2798,6 +2799,28 @@
               "parentId": "indiana_unitedstates"
             },
             {
+              "id": "noble_indiana_unitedstates",
+              "displayName": "Noble",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.398582458496094,
+              "long": -85.41744232177734,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "owen_indiana_unitedstates",
+              "displayName": "Owen",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 39.31272888183594,
+              "long": -86.83763885498047,
+              "parentId": "indiana_unitedstates"
+            },
+            {
               "id": "putnam_indiana_unitedstates",
               "displayName": "Putnam",
               "areas": [],
@@ -2820,6 +2843,50 @@
               "parentId": "indiana_unitedstates"
             },
             {
+              "id": "scott_indiana_unitedstates",
+              "displayName": "Scott",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 1,
+              "totalRecovered": 0,
+              "lat": 38.68501663208008,
+              "long": -85.74748229980469,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "shelby_indiana_unitedstates",
+              "displayName": "Shelby",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 39.5236701965332,
+              "long": -85.79167175292969,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "stjoseph_indiana_unitedstates",
+              "displayName": "St Joseph",
+              "areas": [],
+              "totalConfirmed": 8,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 41.61673355102539,
+              "long": -86.28985595703125,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "tippecanoe_indiana_unitedstates",
+              "displayName": "Tippecanoe",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 40.38856887817383,
+              "long": -86.89408874511719,
+              "parentId": "indiana_unitedstates"
+            },
+            {
               "id": "tipton_indiana_unitedstates",
               "displayName": "Tipton",
               "areas": [],
@@ -2828,6 +2895,28 @@
               "totalRecovered": 0,
               "lat": 40.31135559082031,
               "long": -86.05184173583984,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "vanderburgh_indiana_unitedstates",
+              "displayName": "Vanderburgh",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 38.02507400512695,
+              "long": -87.5858383178711,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "vigo_indiana_unitedstates",
+              "displayName": "Vigo",
+              "areas": [],
+              "totalConfirmed": 2,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 39.43062973022461,
+              "long": -87.38994598388672,
               "parentId": "indiana_unitedstates"
             },
             {
@@ -2842,21 +2931,32 @@
               "parentId": "indiana_unitedstates"
             },
             {
-              "id": "elkhart_indiana_unitedstates",
-              "displayName": "Elkhart",
+              "id": "wayne_indiana_unitedstates",
+              "displayName": "Wayne",
               "areas": [],
               "totalConfirmed": 1,
               "totalDeaths": 0,
               "totalRecovered": 0,
-              "lat": 41.59735870361328,
-              "long": -85.85875701904297,
+              "lat": 39.864437103271484,
+              "long": -85.00984191894531,
+              "parentId": "indiana_unitedstates"
+            },
+            {
+              "id": "wells_indiana_unitedstates",
+              "displayName": "Wells",
+              "areas": [],
+              "totalConfirmed": 1,
+              "totalDeaths": 0,
+              "totalRecovered": 0,
+              "lat": 40.72919464111328,
+              "long": -85.2212142944336,
               "parentId": "indiana_unitedstates"
             }
           ],
           "totalConfirmed": 201,
           "totalDeaths": 4,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 39.849426,
           "long": -86.258278,
           "parentId": "unitedstates"
@@ -2907,17 +3007,6 @@
               "totalRecovered": 0,
               "lat": 42.03624725341797,
               "long": -94.86055755615234,
-              "parentId": "iowa_unitedstates"
-            },
-            {
-              "id": "cerrogordo_iowa_unitedstates",
-              "displayName": "Cerro Gordo",
-              "areas": [],
-              "totalConfirmed": 2,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 43.08152389526367,
-              "long": -93.26079559326172,
               "parentId": "iowa_unitedstates"
             },
             {
@@ -2987,17 +3076,6 @@
               "parentId": "iowa_unitedstates"
             },
             {
-              "id": "kossuth_iowa_unitedstates",
-              "displayName": "Kossuth",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 43.2041015625,
-              "long": -94.20671081542969,
-              "parentId": "iowa_unitedstates"
-            },
-            {
               "id": "linn_iowa_unitedstates",
               "displayName": "Linn",
               "areas": [],
@@ -3042,39 +3120,6 @@
               "parentId": "iowa_unitedstates"
             },
             {
-              "id": "poweshiek_iowa_unitedstates",
-              "displayName": "Poweshiek",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 41.68644332885742,
-              "long": -92.5314712524414,
-              "parentId": "iowa_unitedstates"
-            },
-            {
-              "id": "scott_iowa_unitedstates",
-              "displayName": "Scott",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 41.637088775634766,
-              "long": -90.6231918334961,
-              "parentId": "iowa_unitedstates"
-            },
-            {
-              "id": "sioux_iowa_unitedstates",
-              "displayName": "Sioux",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 43.08258819580078,
-              "long": -96.17790222167969,
-              "parentId": "iowa_unitedstates"
-            },
-            {
               "id": "story_iowa_unitedstates",
               "displayName": "Story",
               "areas": [],
@@ -3083,17 +3128,6 @@
               "totalRecovered": 0,
               "lat": 42.03623580932617,
               "long": -93.46504974365234,
-              "parentId": "iowa_unitedstates"
-            },
-            {
-              "id": "tama_iowa_unitedstates",
-              "displayName": "Tama",
-              "areas": [],
-              "totalConfirmed": 3,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 42.07979202270508,
-              "long": -92.53253173828125,
               "parentId": "iowa_unitedstates"
             },
             {
@@ -3117,23 +3151,12 @@
               "lat": 43.290672302246094,
               "long": -91.84366607666016,
               "parentId": "iowa_unitedstates"
-            },
-            {
-              "id": "woodbury_iowa_unitedstates",
-              "displayName": "Woodbury",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 42.38969421386719,
-              "long": -96.04468536376953,
-              "parentId": "iowa_unitedstates"
             }
           ],
           "totalConfirmed": 90,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 42.011539,
           "long": -93.210526,
           "parentId": "unitedstates"
@@ -3300,7 +3323,7 @@
           "totalConfirmed": 55,
           "totalDeaths": 1,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 38.5266,
           "long": -96.726486,
           "parentId": "unitedstates"
@@ -3312,7 +3335,7 @@
           "totalConfirmed": 99,
           "totalDeaths": 3,
           "totalRecovered": 2,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 37.66814,
           "long": -84.670067,
           "parentId": "unitedstates"
@@ -3721,7 +3744,7 @@
           "totalConfirmed": 837,
           "totalDeaths": 20,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 31.169546,
           "long": -91.867805,
           "parentId": "unitedstates"
@@ -3833,7 +3856,7 @@
           "totalConfirmed": 89,
           "totalDeaths": 0,
           "totalRecovered": 3,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 44.693947,
           "long": -69.381927,
           "parentId": "unitedstates"
@@ -4044,7 +4067,7 @@
           "totalConfirmed": 244,
           "totalDeaths": 3,
           "totalRecovered": 4,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 39.063946,
           "long": -76.802101,
           "parentId": "unitedstates"
@@ -4200,7 +4223,7 @@
           "totalConfirmed": 646,
           "totalDeaths": 5,
           "totalRecovered": 10,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 42.381633,
           "long": -72.137189,
           "parentId": "unitedstates"
@@ -4209,17 +4232,6 @@
           "id": "michigan_unitedstates",
           "displayName": "Michigan",
           "areas": [
-            {
-              "id": "allegan_michigan_unitedstates",
-              "displayName": "Allegan",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 42.59149932861328,
-              "long": -86.31903076171875,
-              "parentId": "michigan_unitedstates"
-            },
             {
               "id": "barry_michigan_unitedstates",
               "displayName": "Barry",
@@ -4317,28 +4329,6 @@
               "totalRecovered": 0,
               "lat": 43.02170181274414,
               "long": -83.70675659179688,
-              "parentId": "michigan_unitedstates"
-            },
-            {
-              "id": "gladwin_michigan_unitedstates",
-              "displayName": "Gladwin",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 43.990692138671875,
-              "long": -84.38822937011719,
-              "parentId": "michigan_unitedstates"
-            },
-            {
-              "id": "grandtraverse_michigan_unitedstates",
-              "displayName": "Grand Traverse",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 44.7155876159668,
-              "long": -85.5523910522461,
               "parentId": "michigan_unitedstates"
             },
             {
@@ -4474,17 +4464,6 @@
               "parentId": "michigan_unitedstates"
             },
             {
-              "id": "roscommon_michigan_unitedstates",
-              "displayName": "Roscommon",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 44.33561325073242,
-              "long": -84.61161041259766,
-              "parentId": "michigan_unitedstates"
-            },
-            {
               "id": "saginaw_michigan_unitedstates",
               "displayName": "Saginaw",
               "areas": [],
@@ -4551,10 +4530,10 @@
               "parentId": "michigan_unitedstates"
             }
           ],
-          "totalConfirmed": 787,
+          "totalConfirmed": 1035,
           "totalDeaths": 8,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 43.326618,
           "long": -84.536095,
           "parentId": "unitedstates"
@@ -4864,7 +4843,7 @@
           "totalConfirmed": 169,
           "totalDeaths": 1,
           "totalRecovered": 24,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 45.694454,
           "long": -93.900192,
           "parentId": "unitedstates"
@@ -5438,7 +5417,7 @@
           "totalConfirmed": 207,
           "totalDeaths": 1,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 32.741646,
           "long": -89.678696,
           "parentId": "unitedstates"
@@ -5616,7 +5595,7 @@
           "totalConfirmed": 90,
           "totalDeaths": 3,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 38.456085,
           "long": -92.288368,
           "parentId": "unitedstates"
@@ -5739,7 +5718,7 @@
           "totalConfirmed": 31,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 46.921925,
           "long": -110.454353,
           "parentId": "unitedstates"
@@ -5751,7 +5730,7 @@
           "totalConfirmed": 42,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 41.12537,
           "long": -98.268082,
           "parentId": "unitedstates"
@@ -5763,7 +5742,7 @@
           "totalConfirmed": 190,
           "totalDeaths": 2,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 38.313515,
           "long": -117.055374,
           "parentId": "unitedstates"
@@ -5853,7 +5832,7 @@
           "totalConfirmed": 65,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 43.452492,
           "long": -71.563896,
           "parentId": "unitedstates"
@@ -6086,7 +6065,7 @@
           "totalConfirmed": 1914,
           "totalDeaths": 20,
           "totalRecovered": 2,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 40.298904,
           "long": -74.521011,
           "parentId": "unitedstates"
@@ -6198,7 +6177,7 @@
           "totalConfirmed": 57,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 34.840515,
           "long": -106.248482,
           "parentId": "unitedstates"
@@ -6673,7 +6652,7 @@
           "totalConfirmed": 15168,
           "totalDeaths": 56,
           "totalRecovered": 1,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 42.165726,
           "long": -74.948051,
           "parentId": "unitedstates"
@@ -7115,7 +7094,7 @@
           "totalConfirmed": 255,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 35.630066,
           "long": -79.806419,
           "parentId": "unitedstates"
@@ -7194,7 +7173,7 @@
           "totalConfirmed": 28,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 47.528912,
           "long": -99.784012,
           "parentId": "unitedstates"
@@ -7614,7 +7593,7 @@
           "totalConfirmed": 351,
           "totalDeaths": 3,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 40.388783,
           "long": -82.764915,
           "parentId": "unitedstates"
@@ -7770,7 +7749,7 @@
           "totalConfirmed": 67,
           "totalDeaths": 2,
           "totalRecovered": 1,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 35.565342,
           "long": -96.928917,
           "parentId": "unitedstates"
@@ -7782,7 +7761,7 @@
           "totalConfirmed": 137,
           "totalDeaths": 4,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 44.572021,
           "long": -122.070938,
           "parentId": "unitedstates"
@@ -7794,7 +7773,7 @@
           "totalConfirmed": 479,
           "totalDeaths": 2,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 40.590752,
           "long": -77.209755,
           "parentId": "unitedstates"
@@ -7806,7 +7785,7 @@
           "totalConfirmed": 23,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 18.225064,
           "long": -66.478913,
           "parentId": "unitedstates"
@@ -7818,7 +7797,7 @@
           "totalConfirmed": 83,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 41.680893,
           "long": -71.51178,
           "parentId": "unitedstates"
@@ -8172,7 +8151,7 @@
           "totalConfirmed": 173,
           "totalDeaths": 3,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 33.856892,
           "long": -80.945007,
           "parentId": "unitedstates"
@@ -8273,7 +8252,7 @@
           "totalConfirmed": 21,
           "totalDeaths": 1,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 44.299782,
           "long": -99.438828,
           "parentId": "unitedstates"
@@ -8415,28 +8394,6 @@
               "parentId": "tennessee_unitedstates"
             },
             {
-              "id": "franklin_tennessee_unitedstates",
-              "displayName": "Franklin",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 35.155006408691406,
-              "long": -86.09278106689453,
-              "parentId": "tennessee_unitedstates"
-            },
-            {
-              "id": "gibson_tennessee_unitedstates",
-              "displayName": "Gibson",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 35.996517181396484,
-              "long": -88.9326400756836,
-              "parentId": "tennessee_unitedstates"
-            },
-            {
               "id": "greene_tennessee_unitedstates",
               "displayName": "Greene",
               "areas": [],
@@ -8470,17 +8427,6 @@
               "parentId": "tennessee_unitedstates"
             },
             {
-              "id": "houston_tennessee_unitedstates",
-              "displayName": "Houston",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 36.285884857177734,
-              "long": -87.71704864501953,
-              "parentId": "tennessee_unitedstates"
-            },
-            {
               "id": "jefferson_tennessee_unitedstates",
               "displayName": "Jefferson",
               "areas": [],
@@ -8503,28 +8449,6 @@
               "parentId": "tennessee_unitedstates"
             },
             {
-              "id": "loudon_tennessee_unitedstates",
-              "displayName": "Loudon",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 35.73514938354492,
-              "long": -84.31143951416016,
-              "parentId": "tennessee_unitedstates"
-            },
-            {
-              "id": "marion_tennessee_unitedstates",
-              "displayName": "Marion",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 35.129371643066406,
-              "long": -85.62274932861328,
-              "parentId": "tennessee_unitedstates"
-            },
-            {
               "id": "maury_tennessee_unitedstates",
               "displayName": "Maury",
               "areas": [],
@@ -8533,17 +8457,6 @@
               "totalRecovered": 0,
               "lat": 35.616981506347656,
               "long": -87.0770263671875,
-              "parentId": "tennessee_unitedstates"
-            },
-            {
-              "id": "mcminn_tennessee_unitedstates",
-              "displayName": "McMinn",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 35.42478942871094,
-              "long": -84.61744689941406,
               "parentId": "tennessee_unitedstates"
             },
             {
@@ -8566,17 +8479,6 @@
               "totalRecovered": 0,
               "lat": 36.4970588684082,
               "long": -87.38288879394531,
-              "parentId": "tennessee_unitedstates"
-            },
-            {
-              "id": "perry_tennessee_unitedstates",
-              "displayName": "Perry",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 35.642662048339844,
-              "long": -87.85896301269531,
               "parentId": "tennessee_unitedstates"
             },
             {
@@ -8726,7 +8628,7 @@
           "totalConfirmed": 505,
           "totalDeaths": 2,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 35.747845,
           "long": -86.692345,
           "parentId": "unitedstates"
@@ -8791,17 +8693,6 @@
               "parentId": "texas_unitedstates"
             },
             {
-              "id": "brown_texas_unitedstates",
-              "displayName": "Brown",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 31.774274826049805,
-              "long": -98.99984741210938,
-              "parentId": "texas_unitedstates"
-            },
-            {
               "id": "cameron_texas_unitedstates",
               "displayName": "Cameron",
               "areas": [],
@@ -8824,17 +8715,6 @@
               "parentId": "texas_unitedstates"
             },
             {
-              "id": "chambers_texas_unitedstates",
-              "displayName": "Chambers",
-              "areas": [],
-              "totalConfirmed": 3,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 29.708999633789062,
-              "long": -94.6727066040039,
-              "parentId": "texas_unitedstates"
-            },
-            {
               "id": "collin_texas_unitedstates",
               "displayName": "Collin",
               "areas": [],
@@ -8843,17 +8723,6 @@
               "totalRecovered": 0,
               "lat": 33.18803787231445,
               "long": -96.57272338867188,
-              "parentId": "texas_unitedstates"
-            },
-            {
-              "id": "comal_texas_unitedstates",
-              "displayName": "Comal",
-              "areas": [],
-              "totalConfirmed": 3,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 29.808185577392578,
-              "long": -98.2781982421875,
               "parentId": "texas_unitedstates"
             },
             {
@@ -9077,17 +8946,6 @@
               "parentId": "texas_unitedstates"
             },
             {
-              "id": "midland_texas_unitedstates",
-              "displayName": "Midland",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 31.86932373046875,
-              "long": -102.03145599365234,
-              "parentId": "texas_unitedstates"
-            },
-            {
               "id": "montgomery_texas_unitedstates",
               "displayName": "Montgomery",
               "areas": [],
@@ -9096,17 +8954,6 @@
               "totalRecovered": 0,
               "lat": 30.30020523071289,
               "long": -95.5030517578125,
-              "parentId": "texas_unitedstates"
-            },
-            {
-              "id": "nueces_texas_unitedstates",
-              "displayName": "Nueces",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 27.737178802490234,
-              "long": -97.54257202148438,
               "parentId": "texas_unitedstates"
             },
             {
@@ -9212,7 +9059,7 @@
           "totalConfirmed": 334,
           "totalDeaths": 5,
           "totalRecovered": 4,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 31.054487,
           "long": -97.563461,
           "parentId": "unitedstates"
@@ -9224,7 +9071,7 @@
           "totalConfirmed": 3,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 17.73293,
           "long": -64.766486,
           "parentId": "unitedstates"
@@ -9336,7 +9183,7 @@
           "totalConfirmed": 181,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 40.150032,
           "long": -111.862434,
           "parentId": "unitedstates"
@@ -9448,7 +9295,7 @@
           "totalConfirmed": 52,
           "totalDeaths": 2,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 44.045876,
           "long": -72.710686,
           "parentId": "unitedstates"
@@ -9623,17 +9470,6 @@
               "parentId": "virginia_unitedstates"
             },
             {
-              "id": "isleofwight_virginia_unitedstates",
-              "displayName": "Isle of Wight",
-              "areas": [],
-              "totalConfirmed": 1,
-              "totalDeaths": 0,
-              "totalRecovered": 0,
-              "lat": 36.90690231323242,
-              "long": -76.70896911621094,
-              "parentId": "virginia_unitedstates"
-            },
-            {
               "id": "jamescity_virginia_unitedstates",
               "displayName": "James City",
               "areas": [],
@@ -9780,7 +9616,7 @@
           "totalConfirmed": 219,
           "totalDeaths": 3,
           "totalRecovered": 1,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 37.769337,
           "long": -78.169968,
           "parentId": "unitedstates"
@@ -10090,7 +9926,7 @@
           "totalConfirmed": 1793,
           "totalDeaths": 94,
           "totalRecovered": 124,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 47.400902,
           "long": -121.490494,
           "parentId": "unitedstates"
@@ -10191,7 +10027,7 @@
           "totalConfirmed": 12,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 38.491226,
           "long": -80.954453,
           "parentId": "unitedstates"
@@ -10523,7 +10359,7 @@
           "totalConfirmed": 381,
           "totalDeaths": 4,
           "totalRecovered": 1,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 44.268543,
           "long": -89.616508,
           "parentId": "unitedstates"
@@ -10624,16 +10460,16 @@
           "totalConfirmed": 24,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-22T21:59:06.383Z",
+          "lastUpdated": "2020-03-22T22:59:15.305Z",
           "lat": 42.755966,
           "long": -107.30249,
           "parentId": "unitedstates"
         }
       ],
-      "totalConfirmed": 32412,
-      "totalDeaths": 414,
+      "totalConfirmed": 33382,
+      "totalDeaths": 417,
       "totalRecovered": 178,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 39.495915,
       "long": -98.989979,
       "parentId": "world"
@@ -10645,7 +10481,7 @@
       "totalConfirmed": 28603,
       "totalDeaths": 1756,
       "totalRecovered": 2575,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 40.387696,
       "long": -3.557391,
       "parentId": "world"
@@ -10657,7 +10493,7 @@
       "totalConfirmed": 24852,
       "totalDeaths": 94,
       "totalRecovered": 266,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 51.121806,
       "long": 10.400695,
       "parentId": "world"
@@ -10669,7 +10505,7 @@
       "totalConfirmed": 21638,
       "totalDeaths": 1685,
       "totalRecovered": 7913,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 32.564263,
       "long": 54.303672,
       "parentId": "world"
@@ -10681,7 +10517,7 @@
       "totalConfirmed": 16018,
       "totalDeaths": 674,
       "totalRecovered": 2200,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 46.62184,
       "long": 2.451944,
       "parentId": "world"
@@ -10693,7 +10529,7 @@
       "totalConfirmed": 8897,
       "totalDeaths": 104,
       "totalRecovered": 2909,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 36.451155,
       "long": 127.861144,
       "parentId": "world"
@@ -10705,7 +10541,7 @@
       "totalConfirmed": 7245,
       "totalDeaths": 98,
       "totalRecovered": 15,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 46.80021,
       "long": 8.229198,
       "parentId": "world"
@@ -10717,7 +10553,7 @@
       "totalConfirmed": 5702,
       "totalDeaths": 282,
       "totalRecovered": 140,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 53.943838,
       "long": -2.550564,
       "parentId": "world"
@@ -10729,7 +10565,7 @@
       "totalConfirmed": 4216,
       "totalDeaths": 180,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 52.245771,
       "long": 5.565215,
       "parentId": "world"
@@ -10738,10 +10574,10 @@
       "id": "austria",
       "displayName": "Austria",
       "areas": [],
-      "totalConfirmed": 3570,
+      "totalConfirmed": 3580,
       "totalDeaths": 16,
       "totalRecovered": 9,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 47.587086,
       "long": 14.141286,
       "parentId": "world"
@@ -10753,7 +10589,7 @@
       "totalConfirmed": 3401,
       "totalDeaths": 75,
       "totalRecovered": 340,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 50.641184,
       "long": 4.660569,
       "parentId": "world"
@@ -10762,10 +10598,10 @@
       "id": "norway",
       "displayName": "Norway",
       "areas": [],
-      "totalConfirmed": 2381,
+      "totalConfirmed": 2383,
       "totalDeaths": 7,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 64.238931,
       "long": 13.950632,
       "parentId": "world"
@@ -10777,7 +10613,7 @@
       "totalConfirmed": 1934,
       "totalDeaths": 23,
       "totalRecovered": 16,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 62.821792,
       "long": 16.735385,
       "parentId": "world"
@@ -10789,7 +10625,7 @@
       "totalConfirmed": 1600,
       "totalDeaths": 14,
       "totalRecovered": 6,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 39.679908,
       "long": -7.968665,
       "parentId": "world"
@@ -10801,7 +10637,7 @@
       "totalConfirmed": 1546,
       "totalDeaths": 25,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -10.776797,
       "long": -53.068056,
       "parentId": "world"
@@ -10813,7 +10649,7 @@
       "totalConfirmed": 1512,
       "totalDeaths": 13,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 56.262275,
       "long": 9.336356,
       "parentId": "world"
@@ -10825,7 +10661,7 @@
       "totalConfirmed": 1435,
       "totalDeaths": 21,
       "totalRecovered": 18,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 56.130366,
       "long": -106.346771,
       "parentId": "world"
@@ -10837,7 +10673,7 @@
       "totalConfirmed": 1356,
       "totalDeaths": 7,
       "totalRecovered": 43,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -25.578937,
       "long": 134.359718,
       "parentId": "world"
@@ -10849,7 +10685,7 @@
       "totalConfirmed": 1306,
       "totalDeaths": 10,
       "totalRecovered": 139,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 3.605468,
       "long": 114.710724,
       "parentId": "world"
@@ -10861,7 +10697,7 @@
       "totalConfirmed": 1236,
       "totalDeaths": 30,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 39.055697,
       "long": 35.109188,
       "parentId": "world"
@@ -10871,9 +10707,9 @@
       "displayName": "Czechia",
       "areas": [],
       "totalConfirmed": 1120,
-      "totalDeaths": 0,
+      "totalDeaths": 1,
       "totalRecovered": 6,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 49.739106,
       "long": 15.3315,
       "parentId": "world"
@@ -11304,7 +11140,7 @@
       "totalConfirmed": 1086,
       "totalDeaths": 36,
       "totalRecovered": 235,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 36.653334,
       "long": 137.98169,
       "parentId": "world"
@@ -11315,10 +11151,22 @@
       "areas": [],
       "totalConfirmed": 1071,
       "totalDeaths": 1,
-      "totalRecovered": 36,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "totalRecovered": 37,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 31,
       "long": 35,
+      "parentId": "world"
+    },
+    {
+      "id": "ireland",
+      "displayName": "Ireland",
+      "areas": [],
+      "totalConfirmed": 906,
+      "totalDeaths": 4,
+      "totalRecovered": 5,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 53.184985,
+      "long": -8.14689,
       "parentId": "world"
     },
     {
@@ -11328,7 +11176,7 @@
       "totalConfirmed": 798,
       "totalDeaths": 8,
       "totalRecovered": 6,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 49.776825,
       "long": 6.092341,
       "parentId": "world"
@@ -11340,31 +11188,19 @@
       "totalConfirmed": 789,
       "totalDeaths": 14,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -1.46557,
       "long": -78.397209,
-      "parentId": "world"
-    },
-    {
-      "id": "ireland",
-      "displayName": "Ireland",
-      "areas": [],
-      "totalConfirmed": 785,
-      "totalDeaths": 3,
-      "totalRecovered": 5,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 53.184985,
-      "long": -8.14689,
       "parentId": "world"
     },
     {
       "id": "pakistan",
       "displayName": "Pakistan",
       "areas": [],
-      "totalConfirmed": 760,
-      "totalDeaths": 4,
+      "totalConfirmed": 776,
+      "totalDeaths": 5,
       "totalRecovered": 5,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 29.354203,
       "long": 68.801837,
       "parentId": "world"
@@ -11376,9 +11212,21 @@
       "totalConfirmed": 712,
       "totalDeaths": 9,
       "totalRecovered": 574,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 35.448886,
       "long": 139.663087,
+      "parentId": "world"
+    },
+    {
+      "id": "poland",
+      "displayName": "Poland",
+      "areas": [],
+      "totalConfirmed": 634,
+      "totalDeaths": 7,
+      "totalRecovered": 1,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 52.129039,
+      "long": 19.393702,
       "parentId": "world"
     },
     {
@@ -11388,7 +11236,7 @@
       "totalConfirmed": 632,
       "totalDeaths": 1,
       "totalRecovered": 8,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -35.232005,
       "long": -71.218827,
       "parentId": "world"
@@ -11400,45 +11248,9 @@
       "totalConfirmed": 626,
       "totalDeaths": 1,
       "totalRecovered": 10,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 64.51989,
       "long": 26.282998,
-      "parentId": "world"
-    },
-    {
-      "id": "thailand",
-      "displayName": "Thailand",
-      "areas": [],
-      "totalConfirmed": 599,
-      "totalDeaths": 1,
-      "totalRecovered": 45,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 15.130673,
-      "long": 101.017781,
-      "parentId": "world"
-    },
-    {
-      "id": "iceland",
-      "displayName": "Iceland",
-      "areas": [],
-      "totalConfirmed": 568,
-      "totalDeaths": 0,
-      "totalRecovered": 36,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 64.879642,
-      "long": -18.225616,
-      "parentId": "world"
-    },
-    {
-      "id": "poland",
-      "displayName": "Poland",
-      "areas": [],
-      "totalConfirmed": 563,
-      "totalDeaths": 7,
-      "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 52.129039,
-      "long": 19.393702,
       "parentId": "world"
     },
     {
@@ -11448,9 +11260,33 @@
       "totalConfirmed": 624,
       "totalDeaths": 15,
       "totalRecovered": 19,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 39.347443,
       "long": 22.571271,
+      "parentId": "world"
+    },
+    {
+      "id": "thailand",
+      "displayName": "Thailand",
+      "areas": [],
+      "totalConfirmed": 599,
+      "totalDeaths": 1,
+      "totalRecovered": 45,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 15.130673,
+      "long": 101.017781,
+      "parentId": "world"
+    },
+    {
+      "id": "iceland",
+      "displayName": "Iceland",
+      "areas": [],
+      "totalConfirmed": 568,
+      "totalDeaths": 1,
+      "totalRecovered": 36,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 64.879642,
+      "long": -18.225616,
       "parentId": "world"
     },
     {
@@ -11460,7 +11296,7 @@
       "totalConfirmed": 514,
       "totalDeaths": 48,
       "totalRecovered": 29,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -0.210123,
       "long": 113.997229,
       "parentId": "world"
@@ -11472,7 +11308,7 @@
       "totalConfirmed": 511,
       "totalDeaths": 0,
       "totalRecovered": 18,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 24.12412,
       "long": 44.550495,
       "parentId": "world"
@@ -11481,10 +11317,10 @@
       "id": "qatar",
       "displayName": "Qatar",
       "areas": [],
-      "totalConfirmed": 481,
+      "totalConfirmed": 494,
       "totalDeaths": 0,
-      "totalRecovered": 27,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "totalRecovered": 33,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 25.285332,
       "long": 51.193252,
       "parentId": "world"
@@ -11496,7 +11332,7 @@
       "totalConfirmed": 455,
       "totalDeaths": 2,
       "totalRecovered": 144,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 1.35757,
       "long": 103.810225,
       "parentId": "world"
@@ -11506,9 +11342,9 @@
       "displayName": "Romania",
       "areas": [],
       "totalConfirmed": 433,
-      "totalDeaths": 3,
+      "totalDeaths": 2,
       "totalRecovered": 64,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 45.839131,
       "long": 24.984653,
       "parentId": "world"
@@ -11518,9 +11354,9 @@
       "displayName": "Slovenia",
       "areas": [],
       "totalConfirmed": 414,
-      "totalDeaths": 1,
+      "totalDeaths": 2,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 46.119555,
       "long": 14.82176,
       "parentId": "world"
@@ -11532,7 +11368,7 @@
       "totalConfirmed": 380,
       "totalDeaths": 25,
       "totalRecovered": 15,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 15.948042,
       "long": 121.422599,
       "parentId": "world"
@@ -11544,7 +11380,7 @@
       "totalConfirmed": 367,
       "totalDeaths": 0,
       "totalRecovered": 16,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 61.760191,
       "long": 99.876844,
       "parentId": "world"
@@ -11556,7 +11392,7 @@
       "totalConfirmed": 363,
       "totalDeaths": 5,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -9.171243,
       "long": -74.356877,
       "parentId": "world"
@@ -11822,7 +11658,7 @@
       "totalConfirmed": 360,
       "totalDeaths": 7,
       "totalRecovered": 24,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 22.493119,
       "long": 79.727013,
       "parentId": "world"
@@ -11834,9 +11670,21 @@
       "totalConfirmed": 334,
       "totalDeaths": 2,
       "totalRecovered": 149,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 26.089246,
       "long": 50.562773,
+      "parentId": "world"
+    },
+    {
+      "id": "egypt",
+      "displayName": "Egypt",
+      "areas": [],
+      "totalConfirmed": 327,
+      "totalDeaths": 14,
+      "totalRecovered": 56,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 26.578456,
+      "long": 29.776876,
       "parentId": "world"
     },
     {
@@ -11846,7 +11694,7 @@
       "totalConfirmed": 326,
       "totalDeaths": 0,
       "totalRecovered": 4,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 58.683671,
       "long": 25.838702,
       "parentId": "world"
@@ -11858,21 +11706,9 @@
       "totalConfirmed": 317,
       "totalDeaths": 4,
       "totalRecovered": 100,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 22.262653,
       "long": 114.198875,
-      "parentId": "world"
-    },
-    {
-      "id": "egypt",
-      "displayName": "Egypt",
-      "areas": [],
-      "totalConfirmed": 294,
-      "totalDeaths": 10,
-      "totalRecovered": 41,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 26.578456,
-      "long": 29.776876,
       "parentId": "world"
     },
     {
@@ -11882,7 +11718,7 @@
       "totalConfirmed": 274,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -29.002312,
       "long": 25.080323,
       "parentId": "world"
@@ -11894,7 +11730,7 @@
       "totalConfirmed": 254,
       "totalDeaths": 0,
       "totalRecovered": 5,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 45.140068,
       "long": 16.427303,
       "parentId": "world"
@@ -11906,7 +11742,7 @@
       "totalConfirmed": 251,
       "totalDeaths": 2,
       "totalRecovered": 4,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 23.94062,
       "long": -102.52514,
       "parentId": "world"
@@ -11918,7 +11754,7 @@
       "totalConfirmed": 248,
       "totalDeaths": 4,
       "totalRecovered": 8,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 33.921445,
       "long": 35.893428,
       "parentId": "world"
@@ -11930,7 +11766,7 @@
       "totalConfirmed": 245,
       "totalDeaths": 3,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 8.531039,
       "long": -80.134502,
       "parentId": "world"
@@ -11942,7 +11778,7 @@
       "totalConfirmed": 233,
       "totalDeaths": 20,
       "totalRecovered": 57,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 33.04443,
       "long": 43.775183,
       "parentId": "world"
@@ -11954,7 +11790,7 @@
       "totalConfirmed": 231,
       "totalDeaths": 2,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 3.906449,
       "long": -73.075029,
       "parentId": "world"
@@ -11966,7 +11802,7 @@
       "totalConfirmed": 225,
       "totalDeaths": 4,
       "totalRecovered": 27,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -35.181148,
       "long": -65.093855,
       "parentId": "world"
@@ -11978,7 +11814,7 @@
       "totalConfirmed": 222,
       "totalDeaths": 2,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 44.230853,
       "long": 20.793766,
       "parentId": "world"
@@ -11990,7 +11826,7 @@
       "totalConfirmed": 202,
       "totalDeaths": 3,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 18.897331,
       "long": -70.499937,
       "parentId": "world"
@@ -12002,7 +11838,7 @@
       "totalConfirmed": 201,
       "totalDeaths": 17,
       "totalRecovered": 65,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 28.155088,
       "long": 2.678749,
       "parentId": "world"
@@ -12014,7 +11850,7 @@
       "totalConfirmed": 194,
       "totalDeaths": 0,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 40.292644,
       "long": 44.939476,
       "parentId": "world"
@@ -12026,7 +11862,7 @@
       "totalConfirmed": 188,
       "totalDeaths": 0,
       "totalRecovered": 30,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 29.335882,
       "long": 47.595493,
       "parentId": "world"
@@ -12035,10 +11871,10 @@
       "id": "bulgaria",
       "displayName": "Bulgaria",
       "areas": [],
-      "totalConfirmed": 185,
+      "totalConfirmed": 187,
       "totalDeaths": 3,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 42.757089,
       "long": 25.238702,
       "parentId": "world"
@@ -12050,7 +11886,7 @@
       "totalConfirmed": 185,
       "totalDeaths": 0,
       "totalRecovered": 7,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 48.707484,
       "long": 19.484877,
       "parentId": "world"
@@ -12062,7 +11898,7 @@
       "totalConfirmed": 175,
       "totalDeaths": 20,
       "totalRecovered": 4,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 43.938171,
       "long": 12.463508,
       "parentId": "world"
@@ -12074,7 +11910,7 @@
       "totalConfirmed": 169,
       "totalDeaths": 2,
       "totalRecovered": 28,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 23.748992,
       "long": 120.971281,
       "parentId": "world"
@@ -12086,7 +11922,7 @@
       "totalConfirmed": 153,
       "totalDeaths": 2,
       "totalRecovered": 38,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 23.907182,
       "long": 54.333533,
       "parentId": "world"
@@ -12098,7 +11934,7 @@
       "totalConfirmed": 139,
       "totalDeaths": 0,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 56.85398,
       "long": 24.927459,
       "parentId": "world"
@@ -12110,9 +11946,21 @@
       "totalConfirmed": 135,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -32.969738,
       "long": -56.056064,
+      "parentId": "world"
+    },
+    {
+      "id": "costarica",
+      "displayName": "Costa Rica",
+      "areas": [],
+      "totalConfirmed": 134,
+      "totalDeaths": 2,
+      "totalRecovered": 2,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 9.97483539581299,
+      "long": -84.1938552856445,
       "parentId": "world"
     },
     {
@@ -12122,21 +11970,21 @@
       "totalConfirmed": 131,
       "totalDeaths": 6,
       "totalRecovered": 16,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 47.165193,
       "long": 19.412044,
       "parentId": "world"
     },
     {
-      "id": "costarica",
-      "displayName": "Costa Rica",
+      "id": "bosniaandherzegovina",
+      "displayName": "Bosnia and Herzegovina",
       "areas": [],
-      "totalConfirmed": 117,
-      "totalDeaths": 2,
+      "totalConfirmed": 126,
+      "totalDeaths": 1,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 9.97483539581299,
-      "long": -84.1938552856445,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 44.168254,
+      "long": 17.78525,
       "parentId": "world"
     },
     {
@@ -12146,7 +11994,7 @@
       "totalConfirmed": 115,
       "totalDeaths": 4,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 31.841399,
       "long": -6.281309,
       "parentId": "world"
@@ -12158,7 +12006,7 @@
       "totalConfirmed": 114,
       "totalDeaths": 1,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 41.600465,
       "long": 21.70089,
       "parentId": "world"
@@ -12170,7 +12018,7 @@
       "totalConfirmed": 113,
       "totalDeaths": 0,
       "totalRecovered": 17,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 16.1676916,
       "long": 107.8390503,
       "parentId": "world"
@@ -12182,7 +12030,7 @@
       "totalConfirmed": 112,
       "totalDeaths": 1,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 42.545303,
       "long": 1.576286,
       "parentId": "world"
@@ -12194,7 +12042,7 @@
       "totalConfirmed": 112,
       "totalDeaths": 0,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 31.248191,
       "long": 36.788103,
       "parentId": "world"
@@ -12206,21 +12054,9 @@
       "totalConfirmed": 105,
       "totalDeaths": 1,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 55.337311,
       "long": 23.883544,
-      "parentId": "world"
-    },
-    {
-      "id": "bosniaandherzegovina",
-      "displayName": "Bosnia and Herzegovina",
-      "areas": [],
-      "totalConfirmed": 94,
-      "totalDeaths": 1,
-      "totalRecovered": 2,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 44.168254,
-      "long": 17.78525,
       "parentId": "world"
     },
     {
@@ -12230,7 +12066,7 @@
       "totalConfirmed": 90,
       "totalDeaths": 0,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 35.890556,
       "long": 14.439536,
       "parentId": "world"
@@ -12240,9 +12076,9 @@
       "displayName": "Albania",
       "areas": [],
       "totalConfirmed": 89,
-      "totalDeaths": 2,
+      "totalDeaths": 3,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 41.139285,
       "long": 20.064313,
       "parentId": "world"
@@ -12254,7 +12090,7 @@
       "totalConfirmed": 88,
       "totalDeaths": 0,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 4.496905,
       "long": 114.63084,
       "parentId": "world"
@@ -12266,7 +12102,7 @@
       "totalConfirmed": 84,
       "totalDeaths": 0,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 12.710772,
       "long": 104.916784,
       "parentId": "world"
@@ -12278,7 +12114,7 @@
       "totalConfirmed": 81,
       "totalDeaths": 0,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 7.641645,
       "long": 80.691976,
       "parentId": "world"
@@ -12290,9 +12126,21 @@
       "totalConfirmed": 80,
       "totalDeaths": 1,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 47.202145,
       "long": 28.465448,
+      "parentId": "world"
+    },
+    {
+      "id": "venezuela",
+      "displayName": "Venezuela",
+      "areas": [],
+      "totalConfirmed": 77,
+      "totalDeaths": 0,
+      "totalRecovered": 15,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 7.156985,
+      "long": -66.223241,
       "parentId": "world"
     },
     {
@@ -12302,7 +12150,7 @@
       "totalConfirmed": 76,
       "totalDeaths": 0,
       "totalRecovered": 15,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 53.5422,
       "long": 28.050123,
       "parentId": "world"
@@ -12314,7 +12162,7 @@
       "totalConfirmed": 75,
       "totalDeaths": 4,
       "totalRecovered": 5,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 12.285448,
       "long": -1.744179,
       "parentId": "world"
@@ -12326,7 +12174,7 @@
       "totalConfirmed": 75,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 34.917409,
       "long": 32.958912,
       "parentId": "world"
@@ -12338,21 +12186,33 @@
       "totalConfirmed": 75,
       "totalDeaths": 3,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 34.114462,
       "long": 9.571987,
       "parentId": "world"
     },
     {
-      "id": "venezuela",
-      "displayName": "Venezuela",
+      "id": "ukraine",
+      "displayName": "Ukraine",
       "areas": [],
-      "totalConfirmed": 70,
+      "totalConfirmed": 73,
+      "totalDeaths": 3,
+      "totalRecovered": 1,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 49.160292,
+      "long": 31.278121,
+      "parentId": "world"
+    },
+    {
+      "id": "senegal",
+      "displayName": "Senegal",
+      "areas": [],
+      "totalConfirmed": 67,
       "totalDeaths": 0,
-      "totalRecovered": 15,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 7.156985,
-      "long": -66.223241,
+      "totalRecovered": 5,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 14.359614,
+      "long": -14.468459,
       "parentId": "world"
     },
     {
@@ -12362,7 +12222,7 @@
       "totalConfirmed": 66,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -43.947636,
       "long": 170.502872,
       "parentId": "world"
@@ -12374,7 +12234,7 @@
       "totalConfirmed": 65,
       "totalDeaths": 1,
       "totalRecovered": 10,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 40.359642,
       "long": 47.652401,
       "parentId": "world"
@@ -12386,7 +12246,7 @@
       "totalConfirmed": 59,
       "totalDeaths": 0,
       "totalRecovered": 17,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 31.6253,
       "long": 35.1453,
       "parentId": "world"
@@ -12398,21 +12258,9 @@
       "totalConfirmed": 59,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 48.160108,
       "long": 67.266081,
-      "parentId": "world"
-    },
-    {
-      "id": "senegal",
-      "displayName": "Senegal",
-      "areas": [],
-      "totalConfirmed": 56,
-      "totalDeaths": 0,
-      "totalRecovered": 5,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 14.359614,
-      "long": -14.468459,
       "parentId": "world"
     },
     {
@@ -12422,7 +12270,7 @@
       "totalConfirmed": 55,
       "totalDeaths": 0,
       "totalRecovered": 17,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 20.569614,
       "long": 56.098076,
       "parentId": "world"
@@ -12434,21 +12282,9 @@
       "totalConfirmed": 54,
       "totalDeaths": 0,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 42.180487,
       "long": 43.507109,
-      "parentId": "world"
-    },
-    {
-      "id": "ukraine",
-      "displayName": "Ukraine",
-      "areas": [],
-      "totalConfirmed": 47,
-      "totalDeaths": 3,
-      "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 49.160292,
-      "long": 31.278121,
       "parentId": "world"
     },
     {
@@ -12458,7 +12294,7 @@
       "totalConfirmed": 44,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 47.141271,
       "long": 9.552783,
       "parentId": "world"
@@ -12470,9 +12306,21 @@
       "totalConfirmed": 43,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 41.763491,
       "long": 63.151523,
+      "parentId": "world"
+    },
+    {
+      "id": "afghanistan",
+      "displayName": "Afghanistan",
+      "areas": [],
+      "totalConfirmed": 40,
+      "totalDeaths": 1,
+      "totalRecovered": 1,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 33.831137,
+      "long": 66.024712,
       "parentId": "world"
     },
     {
@@ -12482,7 +12330,7 @@
       "totalConfirmed": 40,
       "totalDeaths": 0,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 5.697136,
       "long": 12.742336,
       "parentId": "world"
@@ -12494,21 +12342,9 @@
       "totalConfirmed": 35,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 21.610518,
       "long": -78.96027,
-      "parentId": "world"
-    },
-    {
-      "id": "afghanistan",
-      "displayName": "Afghanistan",
-      "areas": [],
-      "totalConfirmed": 34,
-      "totalDeaths": 1,
-      "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 33.831137,
-      "long": 66.024712,
       "parentId": "world"
     },
     {
@@ -12518,9 +12354,21 @@
       "totalConfirmed": 31,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 42.572298,
       "long": 20.854797,
+      "parentId": "world"
+    },
+    {
+      "id": "congodrc",
+      "displayName": "Congo (DRC)",
+      "areas": [],
+      "totalConfirmed": 30,
+      "totalDeaths": 1,
+      "totalRecovered": 0,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": -4.589802,
+      "long": 22.054994,
       "parentId": "world"
     },
     {
@@ -12530,9 +12378,21 @@
       "totalConfirmed": 30,
       "totalDeaths": 0,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 9.585454,
       "long": 8.093578,
+      "parentId": "world"
+    },
+    {
+      "id": "mauritius",
+      "displayName": "Mauritius",
+      "areas": [],
+      "totalConfirmed": 28,
+      "totalDeaths": 2,
+      "totalRecovered": 0,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": -20.283556,
+      "long": 57.571817,
       "parentId": "world"
     },
     {
@@ -12542,7 +12402,7 @@
       "totalConfirmed": 27,
       "totalDeaths": 2,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 23.804884,
       "long": 90.279211,
       "parentId": "world"
@@ -12554,7 +12414,7 @@
       "totalConfirmed": 26,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 14.823818,
       "long": -86.597542,
       "parentId": "world"
@@ -12566,33 +12426,33 @@
       "totalConfirmed": 24,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -16.714647,
       "long": -64.657794,
       "parentId": "world"
     },
     {
-      "id": "mauritius",
-      "displayName": "Mauritius",
-      "areas": [],
-      "totalConfirmed": 24,
-      "totalDeaths": 2,
-      "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": -20.283556,
-      "long": 57.571817,
-      "parentId": "world"
-    },
-    {
-      "id": "congodrc",
-      "displayName": "Congo (DRC)",
+      "id": "ghana",
+      "displayName": "Ghana",
       "areas": [],
       "totalConfirmed": 23,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": -4.589802,
-      "long": 22.054994,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 7.960674,
+      "long": -1.207611,
+      "parentId": "world"
+    },
+    {
+      "id": "monaco",
+      "displayName": "Monaco",
+      "areas": [],
+      "totalConfirmed": 23,
+      "totalDeaths": 0,
+      "totalRecovered": 1,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 43.736306,
+      "long": 7.423314,
       "parentId": "world"
     },
     {
@@ -12602,21 +12462,21 @@
       "totalConfirmed": 22,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -23.241958,
       "long": -58.392766,
       "parentId": "world"
     },
     {
-      "id": "ghana",
-      "displayName": "Ghana",
+      "id": "montenegro",
+      "displayName": "Montenegro",
       "areas": [],
       "totalConfirmed": 21,
-      "totalDeaths": 1,
+      "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 7.960674,
-      "long": -1.207611,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 42.785097,
+      "long": 19.248979,
       "parentId": "world"
     },
     {
@@ -12626,9 +12486,21 @@
       "totalConfirmed": 20,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 49.456123,
       "long": -2.579606,
+      "parentId": "world"
+    },
+    {
+      "id": "guatemala",
+      "displayName": "Guatemala",
+      "areas": [],
+      "totalConfirmed": 19,
+      "totalDeaths": 1,
+      "totalRecovered": 0,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 15.696108,
+      "long": -90.357092,
       "parentId": "world"
     },
     {
@@ -12638,7 +12510,7 @@
       "totalConfirmed": 19,
       "totalDeaths": 1,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 18.157793,
       "long": -77.311228,
       "parentId": "world"
@@ -12650,21 +12522,21 @@
       "totalConfirmed": 19,
       "totalDeaths": 0,
       "totalRecovered": 10,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 22.194959,
       "long": 113.551205,
       "parentId": "world"
     },
     {
-      "id": "guatemala",
-      "displayName": "Guatemala",
+      "id": "rwanda",
+      "displayName": "Rwanda",
       "areas": [],
-      "totalConfirmed": 17,
-      "totalDeaths": 1,
+      "totalConfirmed": 19,
+      "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 15.696108,
-      "long": -90.357092,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": -1.99999,
+      "long": 29.926059,
       "parentId": "world"
     },
     {
@@ -12674,33 +12546,9 @@
       "totalConfirmed": 17,
       "totalDeaths": 0,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 7.635269,
       "long": -5.711925,
-      "parentId": "world"
-    },
-    {
-      "id": "rwanda",
-      "displayName": "Rwanda",
-      "areas": [],
-      "totalConfirmed": 17,
-      "totalDeaths": 0,
-      "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": -1.99999,
-      "long": 29.926059,
-      "parentId": "world"
-    },
-    {
-      "id": "montenegro",
-      "displayName": "Montenegro",
-      "areas": [],
-      "totalConfirmed": 16,
-      "totalDeaths": 0,
-      "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 42.785097,
-      "long": 19.248979,
       "parentId": "world"
     },
     {
@@ -12710,7 +12558,7 @@
       "totalConfirmed": 16,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 8.53076,
       "long": 0.976809,
       "parentId": "world"
@@ -12722,7 +12570,7 @@
       "totalConfirmed": 15,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 49.211416,
       "long": -2.133456,
       "parentId": "world"
@@ -12734,7 +12582,7 @@
       "totalConfirmed": 15,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 0.537028,
       "long": 37.856777,
       "parentId": "world"
@@ -12746,7 +12594,7 @@
       "totalConfirmed": 14,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 13.172222,
       "long": -59.556425,
       "parentId": "world"
@@ -12758,7 +12606,7 @@
       "totalConfirmed": 14,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 41.464268,
       "long": 74.555647,
       "parentId": "world"
@@ -12770,7 +12618,7 @@
       "totalConfirmed": 13,
       "totalDeaths": 0,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 1.912307,
       "long": 73.540093,
       "parentId": "world"
@@ -12782,21 +12630,9 @@
       "totalConfirmed": 12,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -6.267545,
       "long": 34.810957,
-      "parentId": "world"
-    },
-    {
-      "id": "monaco",
-      "displayName": "Monaco",
-      "areas": [],
-      "totalConfirmed": 11,
-      "totalDeaths": 0,
-      "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
-      "lat": 43.736306,
-      "long": 7.423314,
       "parentId": "world"
     },
     {
@@ -12806,7 +12642,7 @@
       "totalConfirmed": 11,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 8.622484,
       "long": 39.63431,
       "parentId": "world"
@@ -12818,7 +12654,7 @@
       "totalConfirmed": 10,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 46.834691,
       "long": 103.067633,
       "parentId": "world"
@@ -12830,7 +12666,7 @@
       "totalConfirmed": 9,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 10.423745,
       "long": -61.296532,
       "parentId": "world"
@@ -12842,7 +12678,7 @@
       "totalConfirmed": 7,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -4.678658,
       "long": 55.467296,
       "parentId": "world"
@@ -12854,7 +12690,7 @@
       "totalConfirmed": 6,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 1.567007,
       "long": 10.46589,
       "parentId": "world"
@@ -12866,7 +12702,7 @@
       "totalConfirmed": 5,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -0.623825,
       "long": 11.781533,
       "parentId": "world"
@@ -12878,7 +12714,7 @@
       "totalConfirmed": 5,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 54.228958,
       "long": -4.537568,
       "parentId": "world"
@@ -12890,7 +12726,7 @@
       "totalConfirmed": 5,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 4.13907,
       "long": -55.911329,
       "parentId": "world"
@@ -12902,7 +12738,7 @@
       "totalConfirmed": 4,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 24.679536,
       "long": -78.055001,
       "parentId": "world"
@@ -12914,7 +12750,7 @@
       "totalConfirmed": 4,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -26.565219,
       "long": 31.498117,
       "parentId": "world"
@@ -12926,7 +12762,7 @@
       "totalConfirmed": 4,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 4.978388,
       "long": -59.088456,
       "parentId": "world"
@@ -12938,7 +12774,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 15.083629,
       "long": -23.624672,
       "parentId": "world"
@@ -12950,7 +12786,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 6.57575,
       "long": 20.484091,
       "parentId": "world"
@@ -12962,7 +12798,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 13.733006,
       "long": -88.8665,
       "parentId": "world"
@@ -12974,7 +12810,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -19.382878,
       "long": 46.695852,
       "parentId": "world"
@@ -12986,7 +12822,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 6.447522,
       "long": -9.311179,
       "parentId": "world"
@@ -12998,7 +12834,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -22.139442,
       "long": 17.221798,
       "parentId": "world"
@@ -13010,7 +12846,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -13.463128,
       "long": 27.787389,
       "parentId": "world"
@@ -13022,7 +12858,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -19.000457,
       "long": 29.871837,
       "parentId": "world"
@@ -13034,7 +12870,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -12.332924,
       "long": 17.572838,
       "parentId": "world"
@@ -13046,7 +12882,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 9.656064,
       "long": 2.339582,
       "parentId": "world"
@@ -13058,7 +12894,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 27.414827,
       "long": 90.426231,
       "parentId": "world"
@@ -13070,7 +12906,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -17.835415,
       "long": 177.963347,
       "parentId": "world"
@@ -13082,7 +12918,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 10.437061,
       "long": -10.934969,
       "parentId": "world"
@@ -13094,7 +12930,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 18.933518,
       "long": -72.674589,
       "parentId": "world"
@@ -13106,7 +12942,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 20.258419,
       "long": -10.331939,
       "parentId": "world"
@@ -13118,7 +12954,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 12.844159,
       "long": -85.03197,
       "parentId": "world"
@@ -13130,7 +12966,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 17.420582,
       "long": 9.400393,
       "parentId": "world"
@@ -13142,7 +12978,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 13.898548,
       "long": -60.967309,
       "parentId": "world"
@@ -13154,7 +12990,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 15.983182,
       "long": 29.949295,
       "parentId": "world"
@@ -13166,7 +13002,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 17.077665,
       "long": -61.79871,
       "parentId": "world"
@@ -13178,9 +13014,21 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 15.368435,
       "long": 18.667134,
+      "parentId": "world"
+    },
+    {
+      "id": "dominica",
+      "displayName": "Dominica",
+      "areas": [],
+      "totalConfirmed": 1,
+      "totalDeaths": 0,
+      "totalRecovered": 0,
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
+      "lat": 15.434657,
+      "long": -61.350074,
       "parentId": "world"
     },
     {
@@ -13190,7 +13038,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 11.731092,
       "long": 42.579107,
       "parentId": "world"
@@ -13202,7 +13050,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 15.359945,
       "long": 38.845682,
       "parentId": "world"
@@ -13214,7 +13062,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 12.11384,
       "long": -61.683753,
       "parentId": "world"
@@ -13226,7 +13074,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -17.273199,
       "long": 35.547484,
       "parentId": "world"
@@ -13238,7 +13086,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 28.259138,
       "long": 83.944163,
       "parentId": "world"
@@ -13250,7 +13098,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": -6.613677,
       "long": 144.261442,
       "parentId": "world"
@@ -13262,7 +13110,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 13.279378,
       "long": -61.175686,
       "parentId": "world"
@@ -13274,7 +13122,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 6.5336451,
       "long": 48.0761719,
       "parentId": "world"
@@ -13286,7 +13134,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 35.024819,
       "long": 38.521849,
       "parentId": "world"
@@ -13298,7 +13146,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 1.277275,
       "long": 32.389703,
       "parentId": "world"
@@ -13310,14 +13158,14 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-22T21:59:05.836Z",
+      "lastUpdated": "2020-03-22T22:59:14.807Z",
       "lat": 41.903395,
       "long": 12.4528313,
       "parentId": "world"
     }
   ],
-  "totalConfirmed": 334451,
-  "totalDeaths": 14597,
-  "totalRecovered": 97574,
-  "lastUpdated": "2020-03-22T21:59:05.836Z"
+  "totalConfirmed": 335403,
+  "totalDeaths": 14611,
+  "totalRecovered": 97636,
+  "lastUpdated": "2020-03-22T22:59:14.807Z"
 }
