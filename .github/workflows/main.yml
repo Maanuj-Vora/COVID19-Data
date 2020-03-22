@@ -1,4 +1,4 @@
-name: Retrieve Hourly Data
+name: Retrieve Data Hourly
 
 on: 
   schedule:
