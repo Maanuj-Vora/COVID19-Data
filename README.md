@@ -10,6 +10,11 @@ All data will be updated hourly, if the thing above is green and says 'passing'.
 
 Site Implementation [Here](https://maanuj-vora.github.io/coronavirus-statistics/currentData.html).
 
+Bing retrieves their data from multiple sources including
+ - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+ - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+ - [ECDC](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
+
 ---
 
 ### Link for all JSONs
@@ -20,7 +25,9 @@ Site Implementation [Here](https://maanuj-vora.github.io/coronavirus-statistics/
 [All Names and IDs](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/allNamesIDs.json)
 
 
-[Major(Country) Names and IDs](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/countryNamesIDs.json)
+[Major(Country) Names and IDs](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/countryNamesIDs.json)*
+
+*If you use the Major(Country) Names and IDs, the order of the countrys/areas are in from most impacted to least impacted
 
 
 This repository also archives the data each day, and since Bing only provides us with daily data, I do not have access to prior data as of 3/22/2020, but you can access anything from 3/22/2020 onwards, all of these files will be located in the [/docs/archived/](docs/archived/) directory. To use the link you would have to do [https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/archived/mm-dd-yyyy.json](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/archived/3-22-2020.json)*. 
