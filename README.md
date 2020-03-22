@@ -8,6 +8,18 @@
 
 ---
 
+### Link for all JSONs
+
+[Current Data](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/currentData.json)
+
+
+[All Names and IDs](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/allNamesIDs.json)
+
+
+[Major(Country) Names and IDs](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/countryNamesIDs.json)
+
+---
+
 ### Examples of usage can be found in the examples folder
 
 ---
