@@ -6,10 +6,11 @@ const WORKSPACE = process.env.GITHUB_WORKSPACE;
 const DATA_REPO = "data";
 const MAIN_REPO = "main";
 
-const outputPath = path.join(WORKSPACE, MAIN_REPO, "docs", "currentData.json");
-
 let d = new Date();
+
+const outputPath = path.join(WORKSPACE, MAIN_REPO, "docs", "currentData.json");
 const outputPathDaily = path.join(WORKSPACE, MAIN_REPO, "docs", "archived", ((d.toLocaleDateString() + ".json").replace("/", "-")).replace("/", "-"));
+const outputPathAllID = path.join(WORKSPACE, MAIN_REPO, "docs", "allId.csv");
 
 Object.defineProperty(exports, "__esModule", { value: true });
 const https_1 = require("https");
@@ -26,8 +27,35 @@ const get = new Promise((resolve, reject) => {
                 if (err) throw err;
                 console.log("It worked?");
             });
+
+            allid(data);
+
         });
     });
     req.end();
 });
 module.exports = get;
+
+function allid() {
+
+    var id = [];
+
+    id.push(data.id);
+
+    for (y = 0; y < data["areas"].length; y++) {
+
+        id.push(data["areas"][y].id);
+
+        if (data["areas"][y]["areas"].length != 0) {
+            for (z = 0; z < data["areas"][y]["areas"].length; z++) {
+
+                id.push(data["areas"][y]["areas"][z].id);
+            }
+        }
+    }
+    fs.writeFile(outputPathAllID, id, { flag: 'w' }, function (err) {
+        if (err) throw err;
+        console.log("It worked?");
+    });
+
+}

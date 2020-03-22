@@ -1,8 +1,10 @@
 name: Retrieve Hourly Data
 
-on: 
-  schedule:
-    - cron: "0 * * * *"
+# on: 
+#   schedule:
+#     - cron: "0 * * * *"
+
+on: [push]
     
 jobs:
   extract_job:
