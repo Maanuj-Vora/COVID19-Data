@@ -13,6 +13,8 @@ const outputPathDaily = path.join(WORKSPACE, MAIN_REPO, "docs", "archived", ((d.
 const outputPathAllNamesIDs = path.join(WORKSPACE, MAIN_REPO, "docs", "allNamesIDs.json");
 const outputPathCountryNamesIDs = path.join(WORKSPACE, MAIN_REPO, "docs", "countryNamesIDs.json");
 const outputPathAllData = path.join(WORKSPACE, MAIN_REPO, "docs", "allData.json");
+const outputPathAllDataArchive = path.join(WORKSPACE, MAIN_REPO, "docs", "allDataArchive", ((d.toLocaleDateString() + ".json").replace("/", "-")).replace("/", "-"));
+
 
 Object.defineProperty(exports, "__esModule", { value: true });
 const https_1 = require("https");
@@ -48,6 +50,10 @@ const getAll = new Promise((resolve, reject) => {
             const dataAll = JSON.parse(da);
             resolve(dataAll);
             fs.writeFile(outputPathAllData, JSON.stringify(dataAll, null, 2), { flag: 'w' }, function (err) {
+                if (err) throw err;
+                console.log("It worked?");
+            });
+            fs.writeFile(outputPathAllDataArchive, JSON.stringify(dataAll, null, 2), { flag: 'w' }, function (err) {
                 if (err) throw err;
                 console.log("It worked?");
             });
