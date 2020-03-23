@@ -4,7 +4,7 @@
 
 ---
 
-![Retrieve Data Hourly](https://github.com/Maanuj-Vora/Bing-COVID-19-Current-Data/workflows/Retrieve%20Data%20Hourly/badge.svg)
+![Retrieve Data Hourly](https://img.shields.io/github/workflow/status/Maanuj-Vora/Bing-COVID-19-Current-Data/Retrieve%20Data%20Hourly?label=Retrieve%20Data%20Hourly&style=for-the-badge)
 
 ![Issues](https://img.shields.io/github/issues/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
