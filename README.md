@@ -2,6 +2,8 @@
 
 ### Retrieves the current data and stores past data shown on [Bing's COVID-19 Tracker](https://www.bing.com/covid) and made into JSONs.
 
+##### Past data from 01/21/2020 to Present
+
 ---
 
 ![Issues](https://img.shields.io/github/issues/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
