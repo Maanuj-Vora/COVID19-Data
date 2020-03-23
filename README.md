@@ -4,12 +4,12 @@
 
 ---
 
-![Retrieve Data Hourly](https://img.shields.io/github/workflow/status/Maanuj-Vora/Bing-COVID-19-Current-Data/Retrieve%20Data%20Hourly?label=Retrieve%20Data%20Hourly&style=for-the-badge)
-
 ![Issues](https://img.shields.io/github/issues/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
 ![Watchers](https://img.shields.io/github/watchers/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
+
+![Retrieve Data Hourly](https://img.shields.io/github/workflow/status/Maanuj-Vora/Bing-COVID-19-Current-Data/Retrieve%20Data%20Hourly?label=Retrieve%20Data%20Hourly&style=for-the-badge)
 
 ![Contributors](https://img.shields.io/github/contributors/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
 ![License](https://img.shields.io/github/license/Maanuj-Vora/Bing-COVID-19-Current-Data?logo=MIT&style=for-the-badge)
