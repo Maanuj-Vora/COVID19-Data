@@ -16,10 +16,11 @@
 
 ![Made With Javascript](https://forthebadge.com/images/badges/made-with-javascript.svg)
 
+---
 
-All data will be updated hourly, if the thing above is green and says 'passing'.
+#### All data will be updated hourly, if the 'Retrieve Data Hourly' badge has the value 'passing'.
 
-Site Implementation [Here](https://maanuj-vora.github.io/coronavirus-statistics/currentData.html).
+#### Site Implementation [Here](https://maanuj-vora.github.io/coronavirus-statistics/currentData.html).
 
 ## 🚩 Table of Contents
 
@@ -27,6 +28,7 @@ Site Implementation [Here](https://maanuj-vora.github.io/coronavirus-statistics/
 - [Used By](#used-by)
 - [Usage Info](#usage-info)
 
+---
 
 Bing retrieves their data from multiple sources including
  - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
