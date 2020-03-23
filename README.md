@@ -25,8 +25,8 @@
 
 ## 🚩 Table of Contents
 
-- [Link for all JSONs](#link-for-all-jsons)
 - [Used By](#used-by)
+- [Link for all JSONs](#link-for-all-jsons)
 - [Usage Info](#usage-info)
 - [License](#license)
 
@@ -36,6 +36,12 @@ Bing retrieves their data from multiple sources including
  - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
  - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
  - [ECDC](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
+
+---
+
+### Used By
+
+[+ Add yours](https://github.com/Maanuj-Vora/Bing-COVID-19-Current-Data/edit/master/README.md)
 
 ---
 
@@ -91,12 +97,6 @@ Usage samples and formatting for jsons can be found at the bottom of the README.
 ---
 
 If you have any suggestions, feel free to open up an issue, or make a pull request
-
----
-
-### Used By
-
-[+ Add yours](https://github.com/Maanuj-Vora/Bing-COVID-19-Current-Data/edit/master/README.md)
 
 ---
 
