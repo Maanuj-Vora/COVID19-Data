@@ -1,6 +1,6 @@
-# Bing COVID-19 Current Data
+# Bing COVID-19 Current Data and Past Data
 
-### Retrieves the current data shown on [Bing's COVID-19 Tracker](https://www.bing.com/covid) and made into a JSON file for usage found [here](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/currentData.json).
+### Retrieves the current data and stores past data shown on [Bing's COVID-19 Tracker](https://www.bing.com/covid) and made into a JSON files.
 
 ---
 
@@ -48,6 +48,8 @@ Website(Repo)
 ---
 
 ### Link for all JSONs
+
+[All Data](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/allData.json)
 
 [Current Data](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/currentData.json)
 
