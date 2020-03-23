@@ -38,20 +38,24 @@ const get = new Promise((resolve, reject) => {
 });
 module.exports = get;
 
-const reqAll = https_1.request('https://bing.com/covid/graphData', resAll => {
-    let da = '';
-    resAll.on('data', d => da += d);
-    reqAll.on('error', reject);
-    resAll.on('end', () => {
-        const data = JSON.parse(da);
-        resolve(data);
-        fs.writeFile(outputPathAllData, JSON.stringify(data, null, 2), { flag: 'w' }, function (err) {
-            if (err) throw err;
-            console.log("It worked?");
+Object.defineProperty(exports, "__esModule", { value: true });
+const getAll = new Promise((resolve, reject) => {
+    const reqAll = https_1.request('https://bing.com/covid/graphData', resAll => {
+        let da = '';
+        resAll.on('data', d => da += d);
+        reqAll.on('error', reject);
+        resAll.on('end', () => {
+            const data = JSON.parse(da);
+            resolve(data);
+            fs.writeFile(outputPathAllData, JSON.stringify(data, null, 2), { flag: 'w' }, function (err) {
+                if (err) throw err;
+                console.log("It worked?");
+            });
         });
     });
+    req.end();
 });
-reqAll.end();
+module.exports = getAll;
 
 function allInfo(data) {
 
