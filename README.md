@@ -79,7 +79,7 @@ If you have any suggestions, feel free to open up an issue, or make a pull reque
 ### Usage Info
 
 Sample Usage of Retrieving Data of Specific Area using either [all ids](docs/allNamesIDs.json) or [major ids](docs/countryNamesIDs.json).
-```javascipt
+```javascript
 function getAreaData(id) {
     fetch("https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/currentData.json")
         .then(response => response.json())
