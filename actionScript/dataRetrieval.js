@@ -12,6 +12,7 @@ const outputPath = path.join(WORKSPACE, MAIN_REPO, "docs", "currentData.json");
 const outputPathDaily = path.join(WORKSPACE, MAIN_REPO, "docs", "archived", ((d.toLocaleDateString() + ".json").replace("/", "-")).replace("/", "-"));
 const outputPathAllNamesIDs = path.join(WORKSPACE, MAIN_REPO, "docs", "allNamesIDs.json");
 const outputPathCountryNamesIDs = path.join(WORKSPACE, MAIN_REPO, "docs", "countryNamesIDs.json");
+const outputPathAllData = path.join(WORKSPACE, MAIN_REPO, "docs", "allData.json");
 
 Object.defineProperty(exports, "__esModule", { value: true });
 const https_1 = require("https");
@@ -31,6 +32,26 @@ const get = new Promise((resolve, reject) => {
 
             allInfo(data);
             countryInfo(data);
+        });
+    });
+    req.end();
+});
+module.exports = get;
+
+Object.defineProperty(exports, "__esModule", { value: true });
+const https_1 = require("https");
+const get = new Promise((resolve, reject) => {
+    const req = https_1.request('https://bing.com/covid/graphData', res => {
+        let da = '';
+        res.on('data', d => da += d);
+        req.on('error', reject);
+        res.on('end', () => {
+            const data = JSON.parse(da);
+            resolve(data);
+            fs.writeFile(outputPathAllData, JSON.stringify(data, null, 2), { flag: 'w' }, function (err) {
+                if (err) throw err;
+                console.log("It worked?");
+            });
         });
     });
     req.end();
