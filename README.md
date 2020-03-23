@@ -76,6 +76,8 @@ console.log(strDate);
 
 *Note that for the month, you do not need to include a 0 if it is a single digit month.
 
+All timestamps done are in GMT(UTC)
+
 ---
 
 Examples of data retrieval can be found in the [examples](examples/) directory
