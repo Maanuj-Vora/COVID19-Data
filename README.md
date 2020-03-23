@@ -6,9 +6,27 @@
 
 ![Retrieve Data Hourly](https://github.com/Maanuj-Vora/Bing-COVID-19-Current-Data/workflows/Retrieve%20Data%20Hourly/badge.svg)
 
+![Issues](https://img.shields.io/github/issues/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
+![Watchers](https://img.shields.io/github/watchers/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
+
+![License](https://img.shields.io/github/license/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
+
+![Made With Javascript](https://forthebadge.com/images/badges/made-with-javascript.svg)
+
+
 All data will be updated hourly, if the thing above is green and says 'passing'.
 
 Site Implementation [Here](https://maanuj-vora.github.io/coronavirus-statistics/currentData.html).
+
+## 🚩 Table of Contents
+
+- [Link for all JSONs](#link-for-all-jsons)
+- [Used By](#used-by)
+- [Usage Info](#usage-info)
+
 
 Bing retrieves their data from multiple sources including
  - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
@@ -70,7 +88,7 @@ If you have any suggestions, feel free to open up an issue, or make a pull reque
 
 ---
 
-### Projects utilizing this tool
+### Used By
 
 [+ Add yours](https://github.com/Maanuj-Vora/Bing-COVID-19-Current-Data/edit/master/README.md)
 
@@ -243,3 +261,4 @@ Format for id and displayNames json
 ```
 
 ---
+
