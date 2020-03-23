@@ -1,6 +1,8 @@
 # Bing COVID-19 Current Data and Past Data
 
-### Retrieves the current data and stores past data shown on [Bing's COVID-19 Tracker](https://www.bing.com/covid) and made into a JSON files.
+### Retrieves the current data and stores past data shown on [Bing's COVID-19 Tracker](https://www.bing.com/covid) and made into JSONs.
+
+##### Past data from 01/21/2020 to Present
 
 ---
 
