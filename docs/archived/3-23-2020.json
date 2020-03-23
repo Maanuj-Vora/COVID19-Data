@@ -9,7 +9,7 @@
       "totalConfirmed": 81093,
       "totalDeaths": 3270,
       "totalRecovered": 72703,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 36.56311586,
       "long": 103.7358068,
       "parentId": "world"
@@ -21,7 +21,7 @@
       "totalConfirmed": 59138,
       "totalDeaths": 5476,
       "totalRecovered": 7024,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 43.529028,
       "long": 12.162184,
       "parentId": "world"
@@ -269,7 +269,7 @@
           "totalConfirmed": 157,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 32.806671,
           "long": -86.79113,
           "parentId": "unitedstates"
@@ -278,10 +278,10 @@
           "id": "alaska_unitedstates",
           "displayName": "Alaska",
           "areas": [],
-          "totalConfirmed": 14,
+          "totalConfirmed": 32,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 61.370716,
           "long": -152.404419,
           "parentId": "unitedstates"
@@ -393,7 +393,7 @@
           "totalConfirmed": 152,
           "totalDeaths": 2,
           "totalRecovered": 1,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 33.729759,
           "long": -111.431221,
           "parentId": "unitedstates"
@@ -405,7 +405,7 @@
           "totalConfirmed": 165,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 34.969704,
           "long": -92.373123,
           "parentId": "unitedstates"
@@ -417,7 +417,7 @@
           "totalConfirmed": 1468,
           "totalDeaths": 27,
           "totalRecovered": 6,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 36.116203,
           "long": -119.681564,
           "parentId": "unitedstates"
@@ -749,7 +749,7 @@
           "totalConfirmed": 475,
           "totalDeaths": 5,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 39.059811,
           "long": -105.311104,
           "parentId": "unitedstates"
@@ -850,7 +850,7 @@
           "totalConfirmed": 223,
           "totalDeaths": 5,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 41.597782,
           "long": -72.755371,
           "parentId": "unitedstates"
@@ -896,7 +896,7 @@
           "totalConfirmed": 56,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 39.318523,
           "long": -75.507141,
           "parentId": "unitedstates"
@@ -905,10 +905,10 @@
           "id": "washingtondc_unitedstates",
           "displayName": "Washington DC",
           "areas": [],
-          "totalConfirmed": 98,
-          "totalDeaths": 1,
+          "totalConfirmed": 116,
+          "totalDeaths": 2,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 38.897438,
           "long": -77.026817,
           "parentId": "unitedstates"
@@ -1427,7 +1427,7 @@
           "totalConfirmed": 937,
           "totalDeaths": 13,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 27.766279,
           "long": -81.686783,
           "parentId": "unitedstates"
@@ -2045,7 +2045,7 @@
           "totalConfirmed": 555,
           "totalDeaths": 20,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 33.040619,
           "long": -83.643074,
           "parentId": "unitedstates"
@@ -2057,7 +2057,7 @@
           "totalConfirmed": 15,
           "totalDeaths": 1,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 13.443708,
           "long": 144.777742,
           "parentId": "unitedstates"
@@ -2114,7 +2114,7 @@
           "totalConfirmed": 56,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 21.094318,
           "long": -157.498337,
           "parentId": "unitedstates"
@@ -2215,7 +2215,7 @@
           "totalConfirmed": 42,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 44.240459,
           "long": -114.478828,
           "parentId": "unitedstates"
@@ -2514,7 +2514,7 @@
           "totalConfirmed": 1049,
           "totalDeaths": 9,
           "totalRecovered": 2,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 40.349457,
           "long": -88.986137,
           "parentId": "unitedstates"
@@ -2967,7 +2967,7 @@
           "totalConfirmed": 201,
           "totalDeaths": 6,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 39.849426,
           "long": -86.258278,
           "parentId": "unitedstates"
@@ -3244,7 +3244,7 @@
           "totalConfirmed": 90,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 42.011539,
           "long": -93.210526,
           "parentId": "unitedstates"
@@ -3411,7 +3411,7 @@
           "totalConfirmed": 64,
           "totalDeaths": 2,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 38.5266,
           "long": -96.726486,
           "parentId": "unitedstates"
@@ -3420,10 +3420,10 @@
           "id": "kentucky_unitedstates",
           "displayName": "Kentucky",
           "areas": [],
-          "totalConfirmed": 99,
+          "totalConfirmed": 103,
           "totalDeaths": 3,
           "totalRecovered": 2,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 37.66814,
           "long": -84.670067,
           "parentId": "unitedstates"
@@ -3832,7 +3832,7 @@
           "totalConfirmed": 837,
           "totalDeaths": 20,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 31.169546,
           "long": -91.867805,
           "parentId": "unitedstates"
@@ -3932,8 +3932,8 @@
           ],
           "totalConfirmed": 89,
           "totalDeaths": 0,
-          "totalRecovered": 3,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "totalRecovered": 0,
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 44.693947,
           "long": -69.381927,
           "parentId": "unitedstates"
@@ -4034,7 +4034,7 @@
           "totalConfirmed": 244,
           "totalDeaths": 3,
           "totalRecovered": 4,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 39.063946,
           "long": -76.802101,
           "parentId": "unitedstates"
@@ -4190,7 +4190,7 @@
           "totalConfirmed": 646,
           "totalDeaths": 5,
           "totalRecovered": 10,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 42.381633,
           "long": -72.137189,
           "parentId": "unitedstates"
@@ -4544,7 +4544,7 @@
           "totalConfirmed": 1035,
           "totalDeaths": 8,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 43.326618,
           "long": -84.536095,
           "parentId": "unitedstates"
@@ -4854,7 +4854,7 @@
           "totalConfirmed": 169,
           "totalDeaths": 1,
           "totalRecovered": 24,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 45.694454,
           "long": -93.900192,
           "parentId": "unitedstates"
@@ -5428,7 +5428,7 @@
           "totalConfirmed": 207,
           "totalDeaths": 1,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 32.741646,
           "long": -89.678696,
           "parentId": "unitedstates"
@@ -5603,10 +5603,10 @@
               "parentId": "missouri_unitedstates"
             }
           ],
-          "totalConfirmed": 90,
+          "totalConfirmed": 128,
           "totalDeaths": 3,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 38.456085,
           "long": -92.288368,
           "parentId": "unitedstates"
@@ -5729,7 +5729,7 @@
           "totalConfirmed": 34,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 46.921925,
           "long": -110.454353,
           "parentId": "unitedstates"
@@ -5741,7 +5741,7 @@
           "totalConfirmed": 42,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 41.12537,
           "long": -98.268082,
           "parentId": "unitedstates"
@@ -5753,7 +5753,7 @@
           "totalConfirmed": 190,
           "totalDeaths": 2,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 38.313515,
           "long": -117.055374,
           "parentId": "unitedstates"
@@ -5832,7 +5832,7 @@
           "totalConfirmed": 78,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 43.452492,
           "long": -71.563896,
           "parentId": "unitedstates"
@@ -6065,7 +6065,7 @@
           "totalConfirmed": 1914,
           "totalDeaths": 20,
           "totalRecovered": 2,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 40.298904,
           "long": -74.521011,
           "parentId": "unitedstates"
@@ -6177,7 +6177,7 @@
           "totalConfirmed": 65,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 34.840515,
           "long": -106.248482,
           "parentId": "unitedstates"
@@ -6649,10 +6649,10 @@
               "parentId": "newyork_unitedstates"
             }
           ],
-          "totalConfirmed": 15168,
-          "totalDeaths": 56,
-          "totalRecovered": 1,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "totalConfirmed": 16900,
+          "totalDeaths": 150,
+          "totalRecovered": 0,
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 42.165726,
           "long": -74.948051,
           "parentId": "unitedstates"
@@ -7094,7 +7094,7 @@
           "totalConfirmed": 255,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 35.630066,
           "long": -79.806419,
           "parentId": "unitedstates"
@@ -7170,10 +7170,10 @@
               "parentId": "northdakota_unitedstates"
             }
           ],
-          "totalConfirmed": 28,
+          "totalConfirmed": 30,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 47.528912,
           "long": -99.784012,
           "parentId": "unitedstates"
@@ -7593,7 +7593,7 @@
           "totalConfirmed": 351,
           "totalDeaths": 3,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 40.388783,
           "long": -82.764915,
           "parentId": "unitedstates"
@@ -7749,7 +7749,7 @@
           "totalConfirmed": 67,
           "totalDeaths": 2,
           "totalRecovered": 1,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 35.565342,
           "long": -96.928917,
           "parentId": "unitedstates"
@@ -7761,7 +7761,7 @@
           "totalConfirmed": 161,
           "totalDeaths": 4,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 44.572021,
           "long": -122.070938,
           "parentId": "unitedstates"
@@ -7771,9 +7771,9 @@
           "displayName": "Pennsylvania",
           "areas": [],
           "totalConfirmed": 479,
-          "totalDeaths": 2,
+          "totalDeaths": 4,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 40.590752,
           "long": -77.209755,
           "parentId": "unitedstates"
@@ -7785,7 +7785,7 @@
           "totalConfirmed": 23,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 18.225064,
           "long": -66.478913,
           "parentId": "unitedstates"
@@ -7797,7 +7797,7 @@
           "totalConfirmed": 83,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 41.680893,
           "long": -71.51178,
           "parentId": "unitedstates"
@@ -8151,7 +8151,7 @@
           "totalConfirmed": 195,
           "totalDeaths": 3,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 33.856892,
           "long": -80.945007,
           "parentId": "unitedstates"
@@ -8252,7 +8252,7 @@
           "totalConfirmed": 21,
           "totalDeaths": 1,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 44.299782,
           "long": -99.438828,
           "parentId": "unitedstates"
@@ -8705,7 +8705,7 @@
           "totalConfirmed": 505,
           "totalDeaths": 2,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 35.747845,
           "long": -86.692345,
           "parentId": "unitedstates"
@@ -9191,7 +9191,7 @@
           "totalConfirmed": 334,
           "totalDeaths": 5,
           "totalRecovered": 4,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 31.054487,
           "long": -97.563461,
           "parentId": "unitedstates"
@@ -9203,7 +9203,7 @@
           "totalConfirmed": 3,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 17.73293,
           "long": -64.766486,
           "parentId": "unitedstates"
@@ -9313,9 +9313,9 @@
             }
           ],
           "totalConfirmed": 181,
-          "totalDeaths": 0,
+          "totalDeaths": 1,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 40.150032,
           "long": -111.862434,
           "parentId": "unitedstates"
@@ -9427,7 +9427,7 @@
           "totalConfirmed": 52,
           "totalDeaths": 2,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 44.045876,
           "long": -72.710686,
           "parentId": "unitedstates"
@@ -9759,7 +9759,7 @@
           "totalConfirmed": 219,
           "totalDeaths": 3,
           "totalRecovered": 1,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 37.769337,
           "long": -78.169968,
           "parentId": "unitedstates"
@@ -10069,7 +10069,7 @@
           "totalConfirmed": 1996,
           "totalDeaths": 95,
           "totalRecovered": 124,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 47.400902,
           "long": -121.490494,
           "parentId": "unitedstates"
@@ -10170,7 +10170,7 @@
           "totalConfirmed": 16,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 38.491226,
           "long": -80.954453,
           "parentId": "unitedstates"
@@ -10502,7 +10502,7 @@
           "totalConfirmed": 381,
           "totalDeaths": 4,
           "totalRecovered": 1,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 44.268543,
           "long": -89.616508,
           "parentId": "unitedstates"
@@ -10603,7 +10603,7 @@
           "totalConfirmed": 26,
           "totalDeaths": 0,
           "totalRecovered": 0,
-          "lastUpdated": "2020-03-23T09:56:12.557Z",
+          "lastUpdated": "2020-03-23T10:56:20.747Z",
           "lat": 42.755966,
           "long": -107.30249,
           "parentId": "unitedstates"
@@ -10612,7 +10612,7 @@
       "totalConfirmed": 35418,
       "totalDeaths": 473,
       "totalRecovered": 175,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 39.495915,
       "long": -98.989979,
       "parentId": "world"
@@ -10624,7 +10624,7 @@
       "totalConfirmed": 29909,
       "totalDeaths": 1813,
       "totalRecovered": 2575,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 40.387696,
       "long": -3.557391,
       "parentId": "world"
@@ -10633,10 +10633,10 @@
       "id": "germany",
       "displayName": "Germany",
       "areas": [],
-      "totalConfirmed": 24904,
-      "totalDeaths": 94,
+      "totalConfirmed": 26159,
+      "totalDeaths": 110,
       "totalRecovered": 266,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 51.121806,
       "long": 10.400695,
       "parentId": "world"
@@ -10646,9 +10646,9 @@
       "displayName": "Iran",
       "areas": [],
       "totalConfirmed": 21638,
-      "totalDeaths": 1685,
+      "totalDeaths": 1812,
       "totalRecovered": 7913,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 32.564263,
       "long": 54.303672,
       "parentId": "world"
@@ -10660,7 +10660,7 @@
       "totalConfirmed": 16018,
       "totalDeaths": 674,
       "totalRecovered": 2200,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 46.62184,
       "long": 2.451944,
       "parentId": "world"
@@ -10672,7 +10672,7 @@
       "totalConfirmed": 8961,
       "totalDeaths": 111,
       "totalRecovered": 3166,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 36.451155,
       "long": 127.861144,
       "parentId": "world"
@@ -10684,7 +10684,7 @@
       "totalConfirmed": 7776,
       "totalDeaths": 100,
       "totalRecovered": 15,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 46.80021,
       "long": 8.229198,
       "parentId": "world"
@@ -10696,7 +10696,7 @@
       "totalConfirmed": 5702,
       "totalDeaths": 282,
       "totalRecovered": 140,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 53.943838,
       "long": -2.550564,
       "parentId": "world"
@@ -10708,7 +10708,7 @@
       "totalConfirmed": 4216,
       "totalDeaths": 180,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 52.245771,
       "long": 5.565215,
       "parentId": "world"
@@ -10717,10 +10717,10 @@
       "id": "austria",
       "displayName": "Austria",
       "areas": [],
-      "totalConfirmed": 3646,
+      "totalConfirmed": 3679,
       "totalDeaths": 16,
       "totalRecovered": 9,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 47.587086,
       "long": 14.141286,
       "parentId": "world"
@@ -10732,7 +10732,7 @@
       "totalConfirmed": 3401,
       "totalDeaths": 75,
       "totalRecovered": 340,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 50.641184,
       "long": 4.660569,
       "parentId": "world"
@@ -10744,7 +10744,7 @@
       "totalConfirmed": 2413,
       "totalDeaths": 7,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 64.238931,
       "long": 13.950632,
       "parentId": "world"
@@ -10756,7 +10756,7 @@
       "totalConfirmed": 1934,
       "totalDeaths": 24,
       "totalRecovered": 16,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 62.821792,
       "long": 16.735385,
       "parentId": "world"
@@ -10768,7 +10768,7 @@
       "totalConfirmed": 1709,
       "totalDeaths": 7,
       "totalRecovered": 88,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -25.578937,
       "long": 134.359718,
       "parentId": "world"
@@ -10780,7 +10780,7 @@
       "totalConfirmed": 1600,
       "totalDeaths": 14,
       "totalRecovered": 6,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 39.679908,
       "long": -7.968665,
       "parentId": "world"
@@ -10792,7 +10792,7 @@
       "totalConfirmed": 1546,
       "totalDeaths": 25,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -10.776797,
       "long": -53.068056,
       "parentId": "world"
@@ -10804,9 +10804,21 @@
       "totalConfirmed": 1570,
       "totalDeaths": 13,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 56.262275,
       "long": 9.336356,
+      "parentId": "world"
+    },
+    {
+      "id": "malaysia",
+      "displayName": "Malaysia",
+      "areas": [],
+      "totalConfirmed": 1518,
+      "totalDeaths": 14,
+      "totalRecovered": 159,
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
+      "lat": 3.605468,
+      "long": 114.710724,
       "parentId": "world"
     },
     {
@@ -10816,21 +10828,9 @@
       "totalConfirmed": 1472,
       "totalDeaths": 21,
       "totalRecovered": 18,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 56.130366,
       "long": -106.346771,
-      "parentId": "world"
-    },
-    {
-      "id": "malaysia",
-      "displayName": "Malaysia",
-      "areas": [],
-      "totalConfirmed": 1306,
-      "totalDeaths": 11,
-      "totalRecovered": 139,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
-      "lat": 3.605468,
-      "long": 114.710724,
       "parentId": "world"
     },
     {
@@ -10840,7 +10840,7 @@
       "totalConfirmed": 1238,
       "totalDeaths": 1,
       "totalRecovered": 37,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 31,
       "long": 35,
       "parentId": "world"
@@ -10852,7 +10852,7 @@
       "totalConfirmed": 1236,
       "totalDeaths": 30,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 39.055697,
       "long": 35.109188,
       "parentId": "world"
@@ -10864,7 +10864,7 @@
       "totalConfirmed": 1120,
       "totalDeaths": 1,
       "totalRecovered": 6,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 49.739106,
       "long": 15.3315,
       "parentId": "world"
@@ -11284,7 +11284,7 @@
       "totalConfirmed": 1101,
       "totalDeaths": 41,
       "totalRecovered": 235,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 36.653334,
       "long": 137.98169,
       "parentId": "world"
@@ -11296,7 +11296,7 @@
       "totalConfirmed": 906,
       "totalDeaths": 4,
       "totalRecovered": 5,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 53.184985,
       "long": -8.14689,
       "parentId": "world"
@@ -11308,7 +11308,7 @@
       "totalConfirmed": 799,
       "totalDeaths": 5,
       "totalRecovered": 6,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 29.354203,
       "long": 68.801837,
       "parentId": "world"
@@ -11320,7 +11320,7 @@
       "totalConfirmed": 798,
       "totalDeaths": 8,
       "totalRecovered": 6,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 49.776825,
       "long": 6.092341,
       "parentId": "world"
@@ -11332,7 +11332,7 @@
       "totalConfirmed": 789,
       "totalDeaths": 14,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -1.46557,
       "long": -78.397209,
       "parentId": "world"
@@ -11344,7 +11344,7 @@
       "totalConfirmed": 721,
       "totalDeaths": 1,
       "totalRecovered": 52,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 15.130673,
       "long": 101.017781,
       "parentId": "world"
@@ -11356,7 +11356,7 @@
       "totalConfirmed": 712,
       "totalDeaths": 9,
       "totalRecovered": 574,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 35.448886,
       "long": 139.663087,
       "parentId": "world"
@@ -11368,7 +11368,7 @@
       "totalConfirmed": 649,
       "totalDeaths": 7,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 52.129039,
       "long": 19.393702,
       "parentId": "world"
@@ -11380,7 +11380,7 @@
       "totalConfirmed": 632,
       "totalDeaths": 1,
       "totalRecovered": 8,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -35.232005,
       "long": -71.218827,
       "parentId": "world"
@@ -11392,7 +11392,7 @@
       "totalConfirmed": 626,
       "totalDeaths": 1,
       "totalRecovered": 10,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 64.51989,
       "long": 26.282998,
       "parentId": "world"
@@ -11404,7 +11404,7 @@
       "totalConfirmed": 624,
       "totalDeaths": 15,
       "totalRecovered": 19,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 39.347443,
       "long": 22.571271,
       "parentId": "world"
@@ -11416,7 +11416,7 @@
       "totalConfirmed": 579,
       "totalDeaths": 49,
       "totalRecovered": 30,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -0.210123,
       "long": 113.997229,
       "parentId": "world"
@@ -11428,7 +11428,7 @@
       "totalConfirmed": 568,
       "totalDeaths": 1,
       "totalRecovered": 36,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 64.879642,
       "long": -18.225616,
       "parentId": "world"
@@ -11440,7 +11440,7 @@
       "totalConfirmed": 511,
       "totalDeaths": 0,
       "totalRecovered": 18,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 24.12412,
       "long": 44.550495,
       "parentId": "world"
@@ -11452,7 +11452,7 @@
       "totalConfirmed": 494,
       "totalDeaths": 0,
       "totalRecovered": 33,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 25.285332,
       "long": 51.193252,
       "parentId": "world"
@@ -11464,7 +11464,7 @@
       "totalConfirmed": 462,
       "totalDeaths": 33,
       "totalRecovered": 18,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 15.948042,
       "long": 121.422599,
       "parentId": "world"
@@ -11476,7 +11476,7 @@
       "totalConfirmed": 455,
       "totalDeaths": 2,
       "totalRecovered": 144,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 1.35757,
       "long": 103.810225,
       "parentId": "world"
@@ -11488,7 +11488,7 @@
       "totalConfirmed": 438,
       "totalDeaths": 0,
       "totalRecovered": 17,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 61.760191,
       "long": 99.876844,
       "parentId": "world"
@@ -11498,9 +11498,9 @@
       "displayName": "Romania",
       "areas": [],
       "totalConfirmed": 433,
-      "totalDeaths": 3,
+      "totalDeaths": 4,
       "totalRecovered": 64,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 45.839131,
       "long": 24.984653,
       "parentId": "world"
@@ -11590,7 +11590,7 @@
           "id": "kerala_india",
           "displayName": "Kerala",
           "areas": [],
-          "totalConfirmed": 52,
+          "totalConfirmed": 67,
           "totalDeaths": 0,
           "totalRecovered": 3,
           "lat": 10.447264671325684,
@@ -11601,7 +11601,7 @@
           "id": "madhyapradesh_india",
           "displayName": "Madhya Pradesh",
           "areas": [],
-          "totalConfirmed": 4,
+          "totalConfirmed": 6,
           "totalDeaths": 0,
           "totalRecovered": 0,
           "lat": 23.5390567779541,
@@ -11656,7 +11656,7 @@
           "id": "rajasthan_india",
           "displayName": "Rajasthan",
           "areas": [],
-          "totalConfirmed": 24,
+          "totalConfirmed": 27,
           "totalDeaths": 0,
           "totalRecovered": 3,
           "lat": 26.58449363708496,
@@ -11667,7 +11667,7 @@
           "id": "tamilnadu_india",
           "displayName": "Tamil Nadu",
           "areas": [],
-          "totalConfirmed": 7,
+          "totalConfirmed": 9,
           "totalDeaths": 0,
           "totalRecovered": 1,
           "lat": 11.01596736907959,
@@ -11678,7 +11678,7 @@
           "id": "telangana_india",
           "displayName": "Telangana",
           "areas": [],
-          "totalConfirmed": 22,
+          "totalConfirmed": 26,
           "totalDeaths": 0,
           "totalRecovered": 1,
           "lat": 17.79990005493164,
@@ -11711,7 +11711,7 @@
           "id": "uttarpradesh_india",
           "displayName": "Uttar Pradesh",
           "areas": [],
-          "totalConfirmed": 27,
+          "totalConfirmed": 28,
           "totalDeaths": 0,
           "totalRecovered": 9,
           "lat": 26.922319412231445,
@@ -11733,7 +11733,7 @@
           "id": "westbengal_india",
           "displayName": "West Bengal",
           "areas": [],
-          "totalConfirmed": 4,
+          "totalConfirmed": 7,
           "totalDeaths": 0,
           "totalRecovered": 0,
           "lat": 23.839706420898438,
@@ -11766,7 +11766,7 @@
       "totalConfirmed": 415,
       "totalDeaths": 7,
       "totalRecovered": 24,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 22.493119,
       "long": 79.727013,
       "parentId": "world"
@@ -11776,9 +11776,9 @@
       "displayName": "Slovenia",
       "areas": [],
       "totalConfirmed": 414,
-      "totalDeaths": 2,
+      "totalDeaths": 3,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 46.119555,
       "long": 14.82176,
       "parentId": "world"
@@ -11790,9 +11790,21 @@
       "totalConfirmed": 363,
       "totalDeaths": 5,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -9.171243,
       "long": -74.356877,
+      "parentId": "world"
+    },
+    {
+      "id": "estonia",
+      "displayName": "Estonia",
+      "areas": [],
+      "totalConfirmed": 352,
+      "totalDeaths": 0,
+      "totalRecovered": 4,
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
+      "lat": 58.683671,
+      "long": 25.838702,
       "parentId": "world"
     },
     {
@@ -11802,7 +11814,7 @@
       "totalConfirmed": 337,
       "totalDeaths": 2,
       "totalRecovered": 160,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 26.089246,
       "long": 50.562773,
       "parentId": "world"
@@ -11814,21 +11826,9 @@
       "totalConfirmed": 327,
       "totalDeaths": 14,
       "totalRecovered": 56,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 26.578456,
       "long": 29.776876,
-      "parentId": "world"
-    },
-    {
-      "id": "estonia",
-      "displayName": "Estonia",
-      "areas": [],
-      "totalConfirmed": 326,
-      "totalDeaths": 0,
-      "totalRecovered": 4,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
-      "lat": 58.683671,
-      "long": 25.838702,
       "parentId": "world"
     },
     {
@@ -11838,7 +11838,7 @@
       "totalConfirmed": 317,
       "totalDeaths": 4,
       "totalRecovered": 100,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 22.262653,
       "long": 114.198875,
       "parentId": "world"
@@ -11850,7 +11850,7 @@
       "totalConfirmed": 316,
       "totalDeaths": 2,
       "totalRecovered": 4,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 23.94062,
       "long": -102.52514,
       "parentId": "world"
@@ -11862,7 +11862,7 @@
       "totalConfirmed": 313,
       "totalDeaths": 3,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 8.531039,
       "long": -80.134502,
       "parentId": "world"
@@ -11874,7 +11874,7 @@
       "totalConfirmed": 306,
       "totalDeaths": 0,
       "totalRecovered": 5,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 45.140068,
       "long": 16.427303,
       "parentId": "world"
@@ -11886,7 +11886,7 @@
       "totalConfirmed": 274,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -29.002312,
       "long": 25.080323,
       "parentId": "world"
@@ -11898,7 +11898,7 @@
       "totalConfirmed": 266,
       "totalDeaths": 4,
       "totalRecovered": 27,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -35.181148,
       "long": -65.093855,
       "parentId": "world"
@@ -11910,7 +11910,7 @@
       "totalConfirmed": 248,
       "totalDeaths": 4,
       "totalRecovered": 8,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 33.921445,
       "long": 35.893428,
       "parentId": "world"
@@ -11922,7 +11922,7 @@
       "totalConfirmed": 235,
       "totalDeaths": 2,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 3.906449,
       "long": -73.075029,
       "parentId": "world"
@@ -11934,7 +11934,7 @@
       "totalConfirmed": 233,
       "totalDeaths": 20,
       "totalRecovered": 57,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 33.04443,
       "long": 43.775183,
       "parentId": "world"
@@ -11946,7 +11946,7 @@
       "totalConfirmed": 222,
       "totalDeaths": 2,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 44.230853,
       "long": 20.793766,
       "parentId": "world"
@@ -11958,7 +11958,7 @@
       "totalConfirmed": 202,
       "totalDeaths": 3,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 18.897331,
       "long": -70.499937,
       "parentId": "world"
@@ -11970,7 +11970,7 @@
       "totalConfirmed": 201,
       "totalDeaths": 17,
       "totalRecovered": 65,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 28.155088,
       "long": 2.678749,
       "parentId": "world"
@@ -11982,7 +11982,7 @@
       "totalConfirmed": 195,
       "totalDeaths": 2,
       "totalRecovered": 29,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 23.748992,
       "long": 120.971281,
       "parentId": "world"
@@ -11994,7 +11994,7 @@
       "totalConfirmed": 194,
       "totalDeaths": 0,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 40.292644,
       "long": 44.939476,
       "parentId": "world"
@@ -12006,7 +12006,7 @@
       "totalConfirmed": 188,
       "totalDeaths": 0,
       "totalRecovered": 30,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 29.335882,
       "long": 47.595493,
       "parentId": "world"
@@ -12018,7 +12018,7 @@
       "totalConfirmed": 187,
       "totalDeaths": 3,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 42.757089,
       "long": 25.238702,
       "parentId": "world"
@@ -12030,7 +12030,7 @@
       "totalConfirmed": 185,
       "totalDeaths": 0,
       "totalRecovered": 7,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 48.707484,
       "long": 19.484877,
       "parentId": "world"
@@ -12042,7 +12042,7 @@
       "totalConfirmed": 175,
       "totalDeaths": 20,
       "totalRecovered": 4,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 43.938171,
       "long": 12.463508,
       "parentId": "world"
@@ -12054,7 +12054,7 @@
       "totalConfirmed": 167,
       "totalDeaths": 7,
       "totalRecovered": 16,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 47.165193,
       "long": 19.412044,
       "parentId": "world"
@@ -12066,7 +12066,7 @@
       "totalConfirmed": 158,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -32.969738,
       "long": -56.056064,
       "parentId": "world"
@@ -12078,7 +12078,7 @@
       "totalConfirmed": 153,
       "totalDeaths": 2,
       "totalRecovered": 38,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 23.907182,
       "long": 54.333533,
       "parentId": "world"
@@ -12090,7 +12090,7 @@
       "totalConfirmed": 143,
       "totalDeaths": 1,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 55.337311,
       "long": 23.883544,
       "parentId": "world"
@@ -12102,7 +12102,7 @@
       "totalConfirmed": 139,
       "totalDeaths": 0,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 56.85398,
       "long": 24.927459,
       "parentId": "world"
@@ -12114,7 +12114,7 @@
       "totalConfirmed": 134,
       "totalDeaths": 2,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 9.97483539581299,
       "long": -84.1938552856445,
       "parentId": "world"
@@ -12126,9 +12126,21 @@
       "totalConfirmed": 126,
       "totalDeaths": 1,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 44.168254,
       "long": 17.78525,
+      "parentId": "world"
+    },
+    {
+      "id": "morocco",
+      "displayName": "Morocco",
+      "areas": [],
+      "totalConfirmed": 122,
+      "totalDeaths": 4,
+      "totalRecovered": 3,
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
+      "lat": 31.841399,
+      "long": -6.281309,
       "parentId": "world"
     },
     {
@@ -12138,21 +12150,9 @@
       "totalConfirmed": 121,
       "totalDeaths": 0,
       "totalRecovered": 17,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 16.1676916,
       "long": 107.8390503,
-      "parentId": "world"
-    },
-    {
-      "id": "morocco",
-      "displayName": "Morocco",
-      "areas": [],
-      "totalConfirmed": 115,
-      "totalDeaths": 4,
-      "totalRecovered": 3,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
-      "lat": 31.841399,
-      "long": -6.281309,
       "parentId": "world"
     },
     {
@@ -12160,9 +12160,9 @@
       "displayName": "North Macedonia",
       "areas": [],
       "totalConfirmed": 114,
-      "totalDeaths": 1,
+      "totalDeaths": 2,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 41.600465,
       "long": 21.70089,
       "parentId": "world"
@@ -12174,7 +12174,7 @@
       "totalConfirmed": 112,
       "totalDeaths": 1,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 42.545303,
       "long": 1.576286,
       "parentId": "world"
@@ -12186,7 +12186,7 @@
       "totalConfirmed": 112,
       "totalDeaths": 0,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 31.248191,
       "long": 36.788103,
       "parentId": "world"
@@ -12198,7 +12198,7 @@
       "totalConfirmed": 102,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -43.947636,
       "long": 170.502872,
       "parentId": "world"
@@ -12210,7 +12210,7 @@
       "totalConfirmed": 94,
       "totalDeaths": 1,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 47.202145,
       "long": 28.465448,
       "parentId": "world"
@@ -12222,7 +12222,7 @@
       "totalConfirmed": 90,
       "totalDeaths": 0,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 35.890556,
       "long": 14.439536,
       "parentId": "world"
@@ -12234,7 +12234,7 @@
       "totalConfirmed": 89,
       "totalDeaths": 2,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 41.139285,
       "long": 20.064313,
       "parentId": "world"
@@ -12246,7 +12246,7 @@
       "totalConfirmed": 88,
       "totalDeaths": 0,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 4.496905,
       "long": 114.63084,
       "parentId": "world"
@@ -12258,7 +12258,7 @@
       "totalConfirmed": 86,
       "totalDeaths": 0,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 12.710772,
       "long": 104.916784,
       "parentId": "world"
@@ -12270,7 +12270,7 @@
       "totalConfirmed": 86,
       "totalDeaths": 0,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 7.641645,
       "long": 80.691976,
       "parentId": "world"
@@ -12282,7 +12282,7 @@
       "totalConfirmed": 77,
       "totalDeaths": 0,
       "totalRecovered": 15,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 7.156985,
       "long": -66.223241,
       "parentId": "world"
@@ -12294,7 +12294,7 @@
       "totalConfirmed": 76,
       "totalDeaths": 0,
       "totalRecovered": 15,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 53.5422,
       "long": 28.050123,
       "parentId": "world"
@@ -12306,7 +12306,7 @@
       "totalConfirmed": 75,
       "totalDeaths": 4,
       "totalRecovered": 5,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 12.285448,
       "long": -1.744179,
       "parentId": "world"
@@ -12318,7 +12318,7 @@
       "totalConfirmed": 75,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 34.917409,
       "long": 32.958912,
       "parentId": "world"
@@ -12330,7 +12330,7 @@
       "totalConfirmed": 75,
       "totalDeaths": 3,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 34.114462,
       "long": 9.571987,
       "parentId": "world"
@@ -12342,7 +12342,7 @@
       "totalConfirmed": 73,
       "totalDeaths": 3,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 49.160292,
       "long": 31.278121,
       "parentId": "world"
@@ -12354,7 +12354,7 @@
       "totalConfirmed": 67,
       "totalDeaths": 0,
       "totalRecovered": 5,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 14.359614,
       "long": -14.468459,
       "parentId": "world"
@@ -12366,7 +12366,7 @@
       "totalConfirmed": 65,
       "totalDeaths": 1,
       "totalRecovered": 10,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 40.359642,
       "long": 47.652401,
       "parentId": "world"
@@ -12378,7 +12378,7 @@
       "totalConfirmed": 59,
       "totalDeaths": 0,
       "totalRecovered": 17,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 31.6253,
       "long": 35.1453,
       "parentId": "world"
@@ -12390,7 +12390,7 @@
       "totalConfirmed": 59,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 48.160108,
       "long": 67.266081,
       "parentId": "world"
@@ -12402,7 +12402,7 @@
       "totalConfirmed": 56,
       "totalDeaths": 0,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 5.697136,
       "long": 12.742336,
       "parentId": "world"
@@ -12414,7 +12414,7 @@
       "totalConfirmed": 55,
       "totalDeaths": 0,
       "totalRecovered": 17,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 20.569614,
       "long": 56.098076,
       "parentId": "world"
@@ -12425,8 +12425,8 @@
       "areas": [],
       "totalConfirmed": 54,
       "totalDeaths": 0,
-      "totalRecovered": 5,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "totalRecovered": 8,
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 42.180487,
       "long": 43.507109,
       "parentId": "world"
@@ -12438,7 +12438,7 @@
       "totalConfirmed": 50,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 10.423745,
       "long": -61.296532,
       "parentId": "world"
@@ -12450,7 +12450,7 @@
       "totalConfirmed": 44,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 47.141271,
       "long": 9.552783,
       "parentId": "world"
@@ -12462,7 +12462,7 @@
       "totalConfirmed": 43,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 41.763491,
       "long": 63.151523,
       "parentId": "world"
@@ -12474,7 +12474,7 @@
       "totalConfirmed": 40,
       "totalDeaths": 1,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 33.831137,
       "long": 66.024712,
       "parentId": "world"
@@ -12486,7 +12486,7 @@
       "totalConfirmed": 35,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 21.610518,
       "long": -78.96027,
       "parentId": "world"
@@ -12495,10 +12495,10 @@
       "id": "nigeria",
       "displayName": "Nigeria",
       "areas": [],
-      "totalConfirmed": 36,
+      "totalConfirmed": 35,
       "totalDeaths": 1,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 9.585454,
       "long": 8.093578,
       "parentId": "world"
@@ -12510,7 +12510,7 @@
       "totalConfirmed": 31,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 42.572298,
       "long": 20.854797,
       "parentId": "world"
@@ -12522,7 +12522,7 @@
       "totalConfirmed": 30,
       "totalDeaths": 2,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -4.589802,
       "long": 22.054994,
       "parentId": "world"
@@ -12534,7 +12534,7 @@
       "totalConfirmed": 27,
       "totalDeaths": 2,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 23.804884,
       "long": 90.279211,
       "parentId": "world"
@@ -12546,7 +12546,7 @@
       "totalConfirmed": 26,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 14.823818,
       "long": -86.597542,
       "parentId": "world"
@@ -12558,7 +12558,7 @@
       "totalConfirmed": 25,
       "totalDeaths": 0,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 7.635269,
       "long": -5.711925,
       "parentId": "world"
@@ -12570,7 +12570,7 @@
       "totalConfirmed": 24,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -16.714647,
       "long": -64.657794,
       "parentId": "world"
@@ -12582,7 +12582,7 @@
       "totalConfirmed": 24,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 7.960674,
       "long": -1.207611,
       "parentId": "world"
@@ -12594,7 +12594,7 @@
       "totalConfirmed": 24,
       "totalDeaths": 2,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -20.283556,
       "long": 57.571817,
       "parentId": "world"
@@ -12606,7 +12606,7 @@
       "totalConfirmed": 23,
       "totalDeaths": 0,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 43.736306,
       "long": 7.423314,
       "parentId": "world"
@@ -12618,7 +12618,7 @@
       "totalConfirmed": 22,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 42.785097,
       "long": 19.248979,
       "parentId": "world"
@@ -12630,7 +12630,7 @@
       "totalConfirmed": 22,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -23.241958,
       "long": -58.392766,
       "parentId": "world"
@@ -12642,7 +12642,7 @@
       "totalConfirmed": 20,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 49.456123,
       "long": -2.579606,
       "parentId": "world"
@@ -12654,7 +12654,7 @@
       "totalConfirmed": 19,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 4.978388,
       "long": -59.088456,
       "parentId": "world"
@@ -12666,7 +12666,7 @@
       "totalConfirmed": 19,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 15.696108,
       "long": -90.357092,
       "parentId": "world"
@@ -12678,7 +12678,7 @@
       "totalConfirmed": 19,
       "totalDeaths": 1,
       "totalRecovered": 2,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 18.157793,
       "long": -77.311228,
       "parentId": "world"
@@ -12690,7 +12690,7 @@
       "totalConfirmed": 19,
       "totalDeaths": 0,
       "totalRecovered": 10,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 22.194959,
       "long": 113.551205,
       "parentId": "world"
@@ -12702,7 +12702,7 @@
       "totalConfirmed": 19,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -1.99999,
       "long": 29.926059,
       "parentId": "world"
@@ -12714,7 +12714,7 @@
       "totalConfirmed": 16,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 8.53076,
       "long": 0.976809,
       "parentId": "world"
@@ -12726,7 +12726,7 @@
       "totalConfirmed": 15,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 49.211416,
       "long": -2.133456,
       "parentId": "world"
@@ -12738,7 +12738,7 @@
       "totalConfirmed": 15,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 0.537028,
       "long": 37.856777,
       "parentId": "world"
@@ -12750,7 +12750,7 @@
       "totalConfirmed": 14,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 13.172222,
       "long": -59.556425,
       "parentId": "world"
@@ -12762,7 +12762,7 @@
       "totalConfirmed": 14,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 41.464268,
       "long": 74.555647,
       "parentId": "world"
@@ -12774,7 +12774,7 @@
       "totalConfirmed": 13,
       "totalDeaths": 0,
       "totalRecovered": 3,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 1.912307,
       "long": 73.540093,
       "parentId": "world"
@@ -12786,7 +12786,7 @@
       "totalConfirmed": 12,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -19.382878,
       "long": 46.695852,
       "parentId": "world"
@@ -12798,7 +12798,7 @@
       "totalConfirmed": 12,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -6.267545,
       "long": 34.810957,
       "parentId": "world"
@@ -12810,7 +12810,7 @@
       "totalConfirmed": 11,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 8.622484,
       "long": 39.63431,
       "parentId": "world"
@@ -12822,7 +12822,7 @@
       "totalConfirmed": 10,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 46.834691,
       "long": 103.067633,
       "parentId": "world"
@@ -12834,7 +12834,7 @@
       "totalConfirmed": 7,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -4.678658,
       "long": 55.467296,
       "parentId": "world"
@@ -12846,7 +12846,7 @@
       "totalConfirmed": 6,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 1.567007,
       "long": 10.46589,
       "parentId": "world"
@@ -12858,7 +12858,7 @@
       "totalConfirmed": 5,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -0.623825,
       "long": 11.781533,
       "parentId": "world"
@@ -12870,7 +12870,7 @@
       "totalConfirmed": 5,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 54.228958,
       "long": -4.537568,
       "parentId": "world"
@@ -12882,7 +12882,7 @@
       "totalConfirmed": 5,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 4.13907,
       "long": -55.911329,
       "parentId": "world"
@@ -12894,7 +12894,7 @@
       "totalConfirmed": 4,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 24.679536,
       "long": -78.055001,
       "parentId": "world"
@@ -12906,7 +12906,7 @@
       "totalConfirmed": 4,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -26.565219,
       "long": 31.498117,
       "parentId": "world"
@@ -12918,7 +12918,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 15.083629,
       "long": -23.624672,
       "parentId": "world"
@@ -12930,7 +12930,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 6.57575,
       "long": 20.484091,
       "parentId": "world"
@@ -12942,7 +12942,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 13.733006,
       "long": -88.8665,
       "parentId": "world"
@@ -12954,7 +12954,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 6.447522,
       "long": -9.311179,
       "parentId": "world"
@@ -12966,7 +12966,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -22.139442,
       "long": 17.221798,
       "parentId": "world"
@@ -12978,7 +12978,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -13.463128,
       "long": 27.787389,
       "parentId": "world"
@@ -12990,7 +12990,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -19.000457,
       "long": 29.871837,
       "parentId": "world"
@@ -13002,7 +13002,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -12.332924,
       "long": 17.572838,
       "parentId": "world"
@@ -13014,7 +13014,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 9.656064,
       "long": 2.339582,
       "parentId": "world"
@@ -13026,7 +13026,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 27.414827,
       "long": 90.426231,
       "parentId": "world"
@@ -13038,7 +13038,7 @@
       "totalConfirmed": 3,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -17.835415,
       "long": 177.963347,
       "parentId": "world"
@@ -13050,7 +13050,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 10.437061,
       "long": -10.934969,
       "parentId": "world"
@@ -13062,7 +13062,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 18.933518,
       "long": -72.674589,
       "parentId": "world"
@@ -13074,7 +13074,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 20.258419,
       "long": -10.331939,
       "parentId": "world"
@@ -13086,7 +13086,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 1,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 28.259138,
       "long": 83.944163,
       "parentId": "world"
@@ -13098,7 +13098,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 12.844159,
       "long": -85.03197,
       "parentId": "world"
@@ -13110,7 +13110,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 17.420582,
       "long": 9.400393,
       "parentId": "world"
@@ -13122,7 +13122,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 13.898548,
       "long": -60.967309,
       "parentId": "world"
@@ -13134,7 +13134,7 @@
       "totalConfirmed": 2,
       "totalDeaths": 1,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 15.983182,
       "long": 29.949295,
       "parentId": "world"
@@ -13146,7 +13146,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 17.077665,
       "long": -61.79871,
       "parentId": "world"
@@ -13158,7 +13158,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 15.368435,
       "long": 18.667134,
       "parentId": "world"
@@ -13170,7 +13170,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 15.434657,
       "long": -61.350074,
       "parentId": "world"
@@ -13182,7 +13182,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 11.731092,
       "long": 42.579107,
       "parentId": "world"
@@ -13194,7 +13194,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 15.359945,
       "long": 38.845682,
       "parentId": "world"
@@ -13206,7 +13206,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 12.11384,
       "long": -61.683753,
       "parentId": "world"
@@ -13218,7 +13218,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -17.273199,
       "long": 35.547484,
       "parentId": "world"
@@ -13230,7 +13230,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": -6.613677,
       "long": 144.261442,
       "parentId": "world"
@@ -13242,7 +13242,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 13.279378,
       "long": -61.175686,
       "parentId": "world"
@@ -13254,7 +13254,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 6.5336451,
       "long": 48.0761719,
       "parentId": "world"
@@ -13266,7 +13266,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 35.024819,
       "long": 38.521849,
       "parentId": "world"
@@ -13278,7 +13278,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 1.277275,
       "long": 32.389703,
       "parentId": "world"
@@ -13290,7 +13290,7 @@
       "totalConfirmed": 1,
       "totalDeaths": 0,
       "totalRecovered": 0,
-      "lastUpdated": "2020-03-23T09:56:11.904Z",
+      "lastUpdated": "2020-03-23T10:56:20.237Z",
       "lat": 41.903395,
       "long": 12.4528313,
       "parentId": "world"
@@ -13299,5 +13299,5 @@
   "totalConfirmed": 341560,
   "totalDeaths": 14748,
   "totalRecovered": 99040,
-  "lastUpdated": "2020-03-23T09:56:11.904Z"
+  "lastUpdated": "2020-03-23T10:56:20.237Z"
 }
