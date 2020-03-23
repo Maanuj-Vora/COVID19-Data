@@ -11,6 +11,7 @@
 ![Stars](https://img.shields.io/github/stars/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
 ![Watchers](https://img.shields.io/github/watchers/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
 
+![Contributors](https://img.shields.io/github/contributors/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
 ![License](https://img.shields.io/github/license/Maanuj-Vora/Bing-COVID-19-Current-Data?logo=MIT&style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/Maanuj-Vora/Bing-COVID-19-Current-Data?style=for-the-badge)
 
