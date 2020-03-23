@@ -45,9 +45,9 @@ const getAll = new Promise((resolve, reject) => {
         resAll.on('data', d => da += d);
         reqAll.on('error', reject);
         resAll.on('end', () => {
-            const data = JSON.parse(da);
-            resolve(data);
-            fs.writeFile(outputPathAllData, JSON.stringify(data, null, 2), { flag: 'w' }, function (err) {
+            const datAll = JSON.parse(da);
+            resolve(dataAll);
+            fs.writeFile(outputPathAllData, JSON.stringify(dataAll, null, 2), { flag: 'w' }, function (err) {
                 if (err) throw err;
                 console.log("It worked?");
             });
