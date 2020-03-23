@@ -44,6 +44,18 @@ fetch(`https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/archived/${strDa
         });
 ```
 
+And if you want to access the day before, this code may come in handy
+```javascript
+let d = new Date();
+strDate = (((d.toLocaleDateString()).replace("/", "-")).replace("/", "-"));
+console.log(strDate);
+
+var yesterday = new Date()
+yesterday.setDate(d.getDate() - 1);
+strDate = (((yesterday.toLocaleDateString()).replace("/", "-")).replace("/", "-"));
+console.log(strDate);
+```
+
 *Note that for the month, you do not need to include a 0 if it is a single digit month.
 
 ---
