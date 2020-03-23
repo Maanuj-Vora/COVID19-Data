@@ -38,7 +38,7 @@ const get = new Promise((resolve, reject) => {
 });
 module.exports = get;
 
-const reqAll = https_1.request('https://bing.com/covid/graphData', res => {
+const reqAll = https_1.request('https://bing.com/covid/graphData', resAll => {
     let da = '';
     resAll.on('data', d => da += d);
     reqAll.on('error', reject);
