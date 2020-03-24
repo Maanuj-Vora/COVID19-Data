@@ -63,7 +63,123 @@ Website(Repo)
 [Major(Country) Names and IDs](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/countryNamesIDs.json)*
 
 *If you use the Major(Country) Names and IDs, the order of the countrys/areas are in from most impacted to least impacted
+
 **Please note that if you want to report at the county level, I would suggest using the [Current Data](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/currentData.json) file as it provides, as per my knowledge, almost, if not all counties in the US, whereas the [All Data](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/allData.json) only does for a selected few.
+
+This is what I have done on my demo site: [here](https://maanuj-vora.github.io/coronavirus-statistics/currentData.html)
+Note: I have done this with the US in mind
+```javascript
+
+// This method is to check if a state has counties in the database and if so, the names and ids of them
+function hasminorMinorArea(id) {
+    // id is name of state in the form found in currentData.json
+    // id = "stateName_countryName";
+    // ex. id = "california_unitedstates";
+    fetch("https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/currentData.json")
+        .then(response => response.json())
+        .then(data => {
+
+            let area = [];
+
+            loop1:
+            for (y = 0; y < data["areas"].length; y++) {
+                for (x = 0; x < data["areas"][y]["areas"].length; x++) {
+                    if (id == data["areas"][y]["areas"][x].id) {
+                        area = data["areas"][y]["areas"][x]["areas"];
+                        break loop1;
+                    }
+                }
+            }
+
+            if (area.length > 0) {
+                var done = false;
+                while (!done) {
+                    done = true;
+                    for (var i = 1; i < area.length; i += 1) {
+                        if (area[i - 1].displayName > area[i].displayName) {
+                            done = false;
+                            var tmp = area[i - 1];
+                            area[i - 1] = area[i];
+                            area[i] = tmp;
+                        }
+                    }
+                }
+
+                for (x = 0; x < area.length; x++) {
+                    console.log(area[x].id);
+                    console.log(area[x].displayName);
+                    // This will log all counties' ids and their names
+                }
+            }
+        });
+}
+
+function getMinorMinorArea(id) {
+    // id is name of state in the form found in currentData.json
+    // id = "stateName_countryName";
+    // ex. id = "california_unitedstates";
+
+    fetch("https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/currentData.json")
+        .then(response => response.json())
+        .then(data => {
+
+            if (id != "N/A") {
+
+                var displayName;
+                var totalConfirmed;
+                var totalDeaths;
+                var totalRecovered;
+                var lastUpdated;
+                var lat;
+                var long;
+                var parentId;
+
+                else {
+                    loop1:
+                    for (y = 0; y < data["areas"].length; y++) {
+
+                        if (data["areas"][y]["areas"].length != 0) {
+                            loop2:
+                            for (z = 0; z < data["areas"][y]["areas"].length; z++) {
+
+                                if (data["areas"][y]["areas"][z]["areas"].length != 0) {
+                                    loop3:
+                                    for (x = 0; x < data["areas"][y]["areas"][z]["areas"].length; x++) {
+
+                                        if (id == data["areas"][y]["areas"][z]["areas"][x].id) {
+                                            displayName = (data["areas"][y]["areas"][z]["areas"][x].displayName);
+                                            totalConfirmed = (data["areas"][y]["areas"][z]["areas"][x].totalConfirmed);
+                                            totalDeaths = (data["areas"][y]["areas"][z]["areas"][x].totalDeaths);
+                                            totalRecovered = (data["areas"][y]["areas"][z]["areas"][x].totalRecovered);
+                                            lastUpdated = (data["areas"][y]["areas"][z]["areas"][x].lastUpdated);
+                                            lat = (data["areas"][y]["areas"][z]["areas"][x].lat);
+                                            long = (data["areas"][y]["areas"][z]["areas"][x].long);
+                                            parentId = (data["areas"][y]["areas"][z]["areas"][x].parentId);
+                                            break loop1;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+
+                console.log(`Data Shown for: ${displayName}`);
+                if (lastUpdated != null) {
+                    console.log(`Last Updated: ${lastUpdated}`);
+                } else {
+                    console.log(`Last Updated: N/A`);
+                }
+                console.log(`Confirmed Cases: ${totalConfirmed}`);
+                console.log(`Active Cases: ${totalConfirmed - totalRecovered - totalDeaths}`);
+                console.log(`Deaths: ${totalDeaths}`);
+                console.log(`Recovered: ${totalRecovered}`);
+            }
+        });
+
+}
+```
+
 
 Some areas may not be accounted for the in [allData.json](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/allData.json), but all countries will be, as well as all states in the US.
 
