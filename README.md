@@ -51,10 +51,10 @@ Website(Repo)
 
 ### Link for all JSONs
 
-[All Data](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/allData.json)**
+[All Data](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/allData.json)
 
 
-[Current Data](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/currentData.json)**
+[Current Data](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/currentData.json)
 
 
 [All Names and IDs](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/allNamesIDs.json)**
@@ -63,7 +63,7 @@ Website(Repo)
 [Major(Country) Names and IDs](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/countryNamesIDs.json)*
 
 *If you use the Major(Country) Names and IDs, the order of the countrys/areas are in from most impacted to least impacted
-**Please note that there are formatting descrepencies at the county level for the US, in the [allData.json](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/allData.json) as the names in the current dataset go in the format `countyName_state_unitedstates` whereas in the all data, it is in the format of `countyNamecounty_state_unitedstates` where countyName is the name of the county, country is the word county, state is the name of the state. Note: this is only for the US. 
+**Please note that if you want to report at the county level, I would suggest using the [Current Data](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/currentData.json) file as it provides, as per my knowledge, almost, if not all counties in the US, whereas the [All Data](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/allData.json) only does for a selected few.
 
 Some areas may not be accounted for the in [allData.json](https://maanuj-vora.github.io/Bing-COVID-19-Current-Data/allData.json), but all countries will be, as well as all states in the US.
 
