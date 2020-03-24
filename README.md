@@ -43,7 +43,7 @@ Bing retrieves their data from multiple sources including
 
 ### Used By
 
-Website(Repo)
+[COVID-19 in the US Statistics](https://maanuj-vora.github.io/covid19us/)
 
 [+ Add yours](https://github.com/Maanuj-Vora/Bing-COVID-19-Current-Data/edit/master/README.md)
 
