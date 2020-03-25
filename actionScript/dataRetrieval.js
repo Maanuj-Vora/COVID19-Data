@@ -79,7 +79,7 @@ const getNews = new Promise((resolve, reject) => {
             });
         });
     });
-    reqAll.end();
+    reqNews.end();
 });
 module.exports = getNews;
 
