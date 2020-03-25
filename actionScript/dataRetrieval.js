@@ -14,6 +14,7 @@ const outputPathAllNamesIDs = path.join(WORKSPACE, MAIN_REPO, "docs", "allNamesI
 const outputPathCountryNamesIDs = path.join(WORKSPACE, MAIN_REPO, "docs", "countryNamesIDs.json");
 const outputPathAllData = path.join(WORKSPACE, MAIN_REPO, "docs", "allData.json");
 const outputPathAllDataArchive = path.join(WORKSPACE, MAIN_REPO, "docs", "allDataArchive", ((d.toLocaleDateString() + ".json").replace("/", "-")).replace("/", "-"));
+const outputPathSomeNewsArticles = path.join(WORKSPACE, MAIN_REPO, "docs", "someNewsArticles.json");
 
 
 Object.defineProperty(exports, "__esModule", { value: true });
@@ -62,6 +63,25 @@ const getAll = new Promise((resolve, reject) => {
     reqAll.end();
 });
 module.exports = getAll;
+
+Object.defineProperty(exports, "__esModule", { value: true });
+const getNews = new Promise((resolve, reject) => {
+    const reqNews = https_1.request('https://bing.com/covid/helpfulResources', resNews => {
+        let da = '';
+        resNews.on('data', d => da += d);
+        reqNews.on('error', reject);
+        resNews.on('end', () => {
+            const dataNews = JSON.parse(da);
+            resolve(dataNews);
+            fs.writeFile(outputPathSomeNewsArticles, JSON.stringify(dataNews, null, 2), { flag: 'w' }, function (err) {
+                if (err) throw err;
+                console.log("It worked?");
+            });
+        });
+    });
+    reqAll.end();
+});
+module.exports = getNews;
 
 function allInfo(data) {
 
