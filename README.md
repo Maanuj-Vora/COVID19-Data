@@ -23,6 +23,8 @@
 
 #### All data will be updated hourly, if the 'Retrieve Data Hourly' badge has the value 'passing'.
 
+### Abandoned due to Bing making their data 'unauthorized'
+
 #### Site Implementation [Here](https://maanuj-vora.github.io/coronavirus-statistics/currentData.html).
 
 ## 🚩 Table of Contents
