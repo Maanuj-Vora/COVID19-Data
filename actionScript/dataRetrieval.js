@@ -32,10 +32,6 @@ const get = new Promise((resolve, reject) => {
                 if (err) throw err;
                 console.log("It worked?");
             });
-            fs.writeFile(outputPathAllDataArchive, JSON.stringify(dataAll, null, 2), { flag: 'w' }, function (err) {
-                if (err) throw err;
-                console.log("It worked?");
-            });
             allInfo(data);
             countryInfo(data);
         });
