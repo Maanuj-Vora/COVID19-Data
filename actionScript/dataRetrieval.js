@@ -41,47 +41,47 @@ const get = new Promise((resolve, reject) => {
 });
 module.exports = get;
 
-Object.defineProperty(exports, "__esModule", { value: true });
-const getAll = new Promise((resolve, reject) => {
-    const reqAll = https_1.request('https://bing.com/covid/graphData', resAll => {
-        let da = '';
-        resAll.on('data', d => da += d);
-        reqAll.on('error', reject);
-        resAll.on('end', () => {
-            const dataAll = JSON.parse(da);
-            resolve(dataAll);
-            fs.writeFile(outputPathAllData, JSON.stringify(dataAll, null, 2), { flag: 'w' }, function (err) {
-                if (err) throw err;
-                console.log("It worked?");
-            });
-            fs.writeFile(outputPathAllDataArchive, JSON.stringify(dataAll, null, 2), { flag: 'w' }, function (err) {
-                if (err) throw err;
-                console.log("It worked?");
-            });
-        });
-    });
-    reqAll.end();
-});
-module.exports = getAll;
+// Object.defineProperty(exports, "__esModule", { value: true });
+// const getAll = new Promise((resolve, reject) => {
+//     const reqAll = https_1.request('https://bing.com/covid/graphData', resAll => {
+//         let da = '';
+//         resAll.on('data', d => da += d);
+//         reqAll.on('error', reject);
+//         resAll.on('end', () => {
+//             const dataAll = JSON.parse(da);
+//             resolve(dataAll);
+//             fs.writeFile(outputPathAllData, JSON.stringify(dataAll, null, 2), { flag: 'w' }, function (err) {
+//                 if (err) throw err;
+//                 console.log("It worked?");
+//             });
+//             fs.writeFile(outputPathAllDataArchive, JSON.stringify(dataAll, null, 2), { flag: 'w' }, function (err) {
+//                 if (err) throw err;
+//                 console.log("It worked?");
+//             });
+//         });
+//     });
+//     reqAll.end();
+// });
+// module.exports = getAll;
 
-Object.defineProperty(exports, "__esModule", { value: true });
-const getNews = new Promise((resolve, reject) => {
-    const reqNews = https_1.request('https://bing.com/covid/helpfulResources', resNews => {
-        let da = '';
-        resNews.on('data', d => da += d);
-        reqNews.on('error', reject);
-        resNews.on('end', () => {
-            const dataNews = JSON.parse(da);
-            resolve(dataNews);
-            fs.writeFile(outputPathSomeNewsArticles, JSON.stringify(dataNews, null, 2), { flag: 'w' }, function (err) {
-                if (err) throw err;
-                console.log("It worked?");
-            });
-        });
-    });
-    reqNews.end();
-});
-module.exports = getNews;
+// Object.defineProperty(exports, "__esModule", { value: true });
+// const getNews = new Promise((resolve, reject) => {
+//     const reqNews = https_1.request('https://bing.com/covid/helpfulResources', resNews => {
+//         let da = '';
+//         resNews.on('data', d => da += d);
+//         reqNews.on('error', reject);
+//         resNews.on('end', () => {
+//             const dataNews = JSON.parse(da);
+//             resolve(dataNews);
+//             fs.writeFile(outputPathSomeNewsArticles, JSON.stringify(dataNews, null, 2), { flag: 'w' }, function (err) {
+//                 if (err) throw err;
+//                 console.log("It worked?");
+//             });
+//         });
+//     });
+//     reqNews.end();
+// });
+// module.exports = getNews;
 
 function allInfo(data) {
 
