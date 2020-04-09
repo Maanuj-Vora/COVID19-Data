@@ -20,7 +20,7 @@ const outputPathSomeNewsArticles = path.join(WORKSPACE, MAIN_REPO, "docs", "some
 Object.defineProperty(exports, "__esModule", { value: true });
 const https_1 = require("https");
 const get = new Promise((resolve, reject) => {
-    const req = https_1.request('https://bing.com/covid/data.json', res => {
+    const req = https_1.request('https://bing.com/covid/data', res => {
         let da = '';
         res.on('data', d => da += d);
         req.on('error', reject);
