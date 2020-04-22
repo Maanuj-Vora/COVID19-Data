@@ -146,9 +146,9 @@
     "aruba",
     "frenchguiana",
     "monaco",
-    "togo",
-    "maldives",
     "bermuda",
+    "maldives",
+    "togo",
     "equatorialguinea",
     "liechtenstein",
     "barbados",
@@ -192,8 +192,8 @@
     "grenada",
     "northernmarianaislands",
     "falklandislands",
-    "montserrat",
     "greenland",
+    "montserrat",
     "seychelles",
     "turksandcaicosislands",
     "gambia",
@@ -212,8 +212,8 @@
     "bonaire",
     "saba",
     "saintpierreandmiquelon",
-    "vanuatu",
-    "yemen"
+    "yemen",
+    "vanuatu"
   ],
   "displayName": [
     "United States",
@@ -362,9 +362,9 @@
     "Aruba",
     "French Guiana",
     "Monaco",
-    "Togo",
-    "Maldives",
     "Bermuda",
+    "Maldives",
+    "Togo",
     "Equatorial Guinea",
     "Liechtenstein",
     "Barbados",
@@ -408,8 +408,8 @@
     "Grenada",
     "Northern Mariana Islands",
     "Falkland Islands",
-    "Montserrat",
     "Greenland",
+    "Montserrat",
     "Seychelles",
     "Turks and Caicos Islands",
     "Gambia",
@@ -428,7 +428,7 @@
     "Bonaire",
     "Saba",
     "Saint Pierre and Miquelon",
-    "Vanuatu",
-    "Yemen"
+    "Yemen",
+    "Vanuatu"
   ]
 }
